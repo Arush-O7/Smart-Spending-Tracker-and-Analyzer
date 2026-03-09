@@ -19,13 +19,13 @@ The repository is organized following professional modular software standards:
 
 ```text
 .
-├── models/             # Serialized ML Artifacts (.joblib)
-│   ├── categorization_pipeline.joblib   # 300k record Random Forest model
-│   └── risk_engine_model.joblib        # Isolation Forest anomaly detector
-├── data/               # Testing & Schema samples
-│   └── for_testing.csv # Anonymized demo transaction set
-├── notebooks/          # Research & Development
-│   └── transaction_categorization.ipynb # Model training & EDA
-├── app.py              # Main Streamlit Dashboard Application
-├── requirements.txt    # Dependency Management
-└── README.md           # Documentation
+├── models/             
+│   ├── categorization_pipeline.joblib   
+│   └── risk_engine_model.joblib        
+├── data/               
+│   └── for_testing.csv 
+├── notebooks/          
+│   └── transaction_categorization.ipynb 
+├── app.py              
+├── requirements.txt    
+└── README.md           

@@ -1,31 +1,29 @@
-# 🔍 Smart Spending Tracker & Analyzer
+# 🔍 Project Documentation: Smart Spending Tracker & Analyzer
 
-An advanced financial analytics system that combines **Supervised Classification** with **Unsupervised Anomaly Detection** to categorize transactions and identify high-risk spending behavior.
+## 📝 Project Overview
+This project is an intelligent financial tool designed to help users understand their spending habits through automated analysis. It combines **Machine Learning** for transaction classification and **Anomaly Detection** to identify unusual financial activity.
 
----
-
-## 🚀 Engineering Highlights
-
-- **Hybrid Intelligence Model**: Integrates a Random Forest classifier for high-accuracy categorization and an **Isolation Forest** algorithm for multi-dimensional anomaly detection without labeled fraud data.
-- **Big Data Optimization**: Trained on **real-world transactions**, ensuring the model handles diverse merchant naming conventions and high-volume data streams.
-- **Advanced Feature Engineering**: Derived temporal features (Time-of-day, Day-of-week) and behavioral metrics (Z-score outliers, Velocity Spikes, and Geo-Jump violations) to improve prediction confidence.
-- **Production-Ready UI**: Developed a full-stack interactive dashboard using **Streamlit** and **Plotly** for real-time visualization of financial health and budget variance.
+The system is built to handle real-world data volumes, with core models trained to ensure high accuracy across various merchant types and spending behaviors.
 
 ---
 
-## 📂 System Architecture
+## 📂 Repository Structure
+The project follows a modular structure to separate research, models, and application logic:
 
-The repository is organized following professional modular software standards:
+* **`app.py`**: The primary application file. It hosts the **Streamlit** dashboard where users upload CSV files for real-time analysis.
+* **`models/`**: A centralized folder containing all serialized machine learning artifacts (`.joblib` files), including the categorization pipeline, risk engine, and data scalers.
+* **`notebooks/`**: Contains the Jupyter notebook (`transaction_categorization.ipynb`) used for data cleaning, exploratory data analysis, and model training.
+* **`data/`**: Includes sample data (`for_testing.csv`) for demonstration purposes. This test data is a curated sample from the same Kaggle source used for model training.
 
-```text
-.
-├── models/             
-│   ├── categorization_pipeline.joblib   
-│   └── risk_engine_model.joblib        
-├── data/               
-│   └── for_testing.csv 
-├── notebooks/          
-│   └── transaction_categorization.ipynb 
-├── app.py              
-├── requirements.txt    
-└── README.md           
+---
+
+## ✨ Key Features
+
+### 1. AI-Driven Transaction Categorization
+Unlike traditional keyword-based filters, this project uses a **Random Forest** pipeline. It analyzes the relationship between merchant descriptions and transaction amounts to predict categories (e.g., Food, Travel, Shopping) with high confidence.
+
+### 2. Risk & Anomaly Detection (AI Engine)
+The system integrates an **Isolation Forest** model, an unsupervised learning algorithm. This engine identifies "outliers"—spending events that deviate significantly from a user's established historical patterns.
+
+### 3. Interactive Budgeting Dashboard
+A dedicated "Budget vs Actual" tab allows users to set monthly limits for specific categories. The dashboard provides real-time visual feedback on spending variance and remaining funds.

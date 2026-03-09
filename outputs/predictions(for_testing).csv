@@ -1,0 +1,1000 @@
+timestamp,merchant,amount,city,state,pred_category,category
+30-06-2019 23:58,"fraud_Ruecker, Beer and Collier",7.86,East Troy,WI,shopping_net,shopping_net
+30-06-2019 23:59,"fraud_Bahringer, Bergnaum and Quitzon",108.99,Delhi,LA,home,home
+30-06-2019 23:59,"fraud_Baumbach, Feeney and Morar",890.66,Cromona,KY,shopping_net,shopping_net
+30-06-2019 23:59,fraud_Barton LLC,30.87,Mc Nabb,IL,kids_pets,kids_pets
+01-07-2019 00:00,fraud_Dibbert and Sons,4.3,Harmony,PA,entertainment,entertainment
+01-07-2019 00:00,fraud_Sporer Inc,60.61,Harrodsburg,IN,gas_transport,gas_transport
+01-07-2019 00:00,fraud_Balistreri-Nader,34.48,Smock,PA,misc_pos,misc_pos
+01-07-2019 00:00,"fraud_Robel, Cummerata and Prosacco",61.82,Nobleboro,ME,gas_transport,gas_transport
+01-07-2019 00:00,fraud_Kling-Ernser,3.29,North Judson,IN,entertainment,entertainment
+01-07-2019 00:01,fraud_Dickinson-Rempel,40.45,Tuscarora,MD,misc_pos,misc_pos
+01-07-2019 00:01,fraud_Friesen-Stamm,51.25,Campbell,NE,gas_transport,gas_transport
+01-07-2019 00:01,fraud_Cummings LLC,72.47,Skytop,PA,gas_transport,gas_transport
+01-07-2019 00:01,fraud_DuBuque LLC,76.67,Karnack,TX,grocery_pos,grocery_pos
+01-07-2019 00:02,fraud_Dickinson Ltd,6.22,Wilton,ND,misc_pos,misc_pos
+01-07-2019 00:02,fraud_Rowe-Vandervort,46.77,Roma,TX,grocery_net,grocery_net
+01-07-2019 00:03,"fraud_Connelly, Reichert and Fritsch",57.32,Rule,TX,gas_transport,gas_transport
+01-07-2019 00:04,fraud_Kuhn Group,52.98,Winslow,AR,misc_net,food_dining
+01-07-2019 00:05,"fraud_Schaefer, McGlynn and Bosco",80.08,Mesa,ID,gas_transport,gas_transport
+01-07-2019 00:05,fraud_Pacocha-Bauch,139.12,Bridger,MT,shopping_pos,shopping_pos
+01-07-2019 00:06,"fraud_Streich, Dietrich and Barton",102.16,Harper,TX,shopping_net,shopping_net
+01-07-2019 00:07,fraud_Cummerata-Jones,56.14,Riverton,WY,gas_transport,gas_transport
+01-07-2019 00:07,fraud_Kling Inc,51.97,Pembroke Township,IL,gas_transport,gas_transport
+01-07-2019 00:07,fraud_Mraz-Herzog,45.48,Tallmansville,WV,gas_transport,gas_transport
+01-07-2019 00:08,fraud_Bernhard Inc,43.88,Pembroke Township,IL,gas_transport,gas_transport
+01-07-2019 00:09,fraud_Cummings LLC,55.16,Westport,KY,gas_transport,gas_transport
+01-07-2019 00:10,"fraud_Lehner, Mosciski and King",594.19,Hudson,KS,misc_net,misc_net
+01-07-2019 00:11,fraud_Ledner-Pfannerstill,80.5,Valentine,NE,gas_transport,gas_transport
+01-07-2019 00:12,fraud_Beier LLC,6.62,New Waverly,TX,entertainment,entertainment
+01-07-2019 00:12,"fraud_Lind, Huel and McClure",52.4,Lawrence,MA,gas_transport,gas_transport
+01-07-2019 00:12,fraud_Brekke and Sons,55.41,Center Point,WV,gas_transport,gas_transport
+01-07-2019 00:12,fraud_Bernhard Inc,67.33,Avoca,IA,gas_transport,gas_transport
+01-07-2019 00:13,fraud_Koepp-Parker,95.66,Heart Butte,MT,grocery_pos,grocery_pos
+01-07-2019 00:13,fraud_Cummings LLC,36.55,Naples,FL,gas_transport,gas_transport
+01-07-2019 00:14,"fraud_Bernier, Volkman and Hoeger",4.01,North Haverhill,NH,misc_net,misc_net
+01-07-2019 00:15,fraud_Deckow-O'Conner,179.3,Baroda,MI,grocery_pos,grocery_pos
+01-07-2019 00:15,"fraud_Schroeder, Hauck and Treutel",98.23,Greenwich,NJ,entertainment,entertainment
+01-07-2019 00:15,fraud_Cummerata-Jones,66.78,Oxford,MI,gas_transport,gas_transport
+01-07-2019 00:15,"fraud_Heathcote, Yost and Kertzmann",78.73,Bristow,IN,shopping_net,shopping_net
+01-07-2019 00:15,fraud_Gerlach Inc,2.57,Roseland,NE,shopping_net,shopping_net
+01-07-2019 00:16,"fraud_Reichert, Huels and Hoppe",6.66,Garrattsville,NY,shopping_net,shopping_net
+01-07-2019 00:16,fraud_Thiel PLC,330.74,Watertown,MN,misc_pos,misc_pos
+01-07-2019 00:16,fraud_Hermann-Gaylord,24.84,Coleman,TX,misc_pos,misc_pos
+01-07-2019 00:16,"fraud_Daugherty, Pouros and Beahan",9.46,Burke,VA,shopping_pos,shopping_pos
+01-07-2019 00:17,"fraud_Connelly, Reichert and Fritsch",83.69,Birmingham,IA,gas_transport,gas_transport
+01-07-2019 00:18,fraud_Ankunding LLC,449.53,Andrews,IN,shopping_net,shopping_net
+01-07-2019 00:18,fraud_Klocko LLC,8.31,Saint Francis,KY,misc_net,misc_net
+01-07-2019 00:19,"fraud_Huel, Hammes and Witting",53.65,Glendale,CA,grocery_pos,grocery_pos
+01-07-2019 00:19,"fraud_Reichert, Shanahan and Hayes",288.76,Ashford,WA,shopping_net,shopping_net
+01-07-2019 00:19,fraud_Grimes LLC,41.1,Paulding,OH,entertainment,entertainment
+01-07-2019 00:19,fraud_Berge LLC,73.2,Dunlevy,PA,gas_transport,gas_transport
+01-07-2019 00:20,fraud_Roob LLC,94.15,Belgrade,MT,grocery_net,grocery_net
+01-07-2019 00:20,"fraud_Greenholt, Jacobi and Gleason",47.26,Shenandoah Junction,WV,gas_transport,gas_transport
+01-07-2019 00:20,fraud_Kilback LLC,134.79,Uledi,PA,grocery_pos,grocery_pos
+01-07-2019 00:20,fraud_Cartwright-Harris,174.22,Tupper Lake,NY,grocery_pos,grocery_pos
+01-07-2019 00:20,"fraud_Connelly, Reichert and Fritsch",100.63,Topeka,KS,gas_transport,gas_transport
+01-07-2019 00:22,fraud_Hackett-Lueilwitz,115.95,Prairie Hill,TX,grocery_pos,grocery_pos
+01-07-2019 00:23,fraud_Jast and Sons,48.12,Farmington,NY,food_dining,food_dining
+01-07-2019 00:23,fraud_Cummerata-Jones,58.53,Cleveland,TX,gas_transport,gas_transport
+01-07-2019 00:24,"fraud_Goldner, Kovacek and Abbott",194.52,Indianapolis,IN,grocery_pos,grocery_pos
+01-07-2019 00:24,fraud_Fisher-Schowalter,22.02,Barnstable,MA,shopping_net,shopping_net
+01-07-2019 00:25,fraud_Heller-Abshire,90.52,Walnut Ridge,AR,grocery_net,grocery_net
+01-07-2019 00:25,"fraud_Osinski, Ledner and Leuschke",108.53,Palmyra,NY,grocery_pos,grocery_pos
+01-07-2019 00:25,fraud_Cummings LLC,52.41,Heiskell,TN,gas_transport,gas_transport
+01-07-2019 00:26,"fraud_Towne, Greenholt and Koepp",97.72,Elkhart,IA,shopping_net,shopping_net
+01-07-2019 00:26,fraud_Pfeffer and Sons,363.15,Fulton,SD,grocery_net,shopping_pos
+01-07-2019 00:26,fraud_DuBuque LLC,159.76,Tupper Lake,NY,grocery_pos,grocery_pos
+01-07-2019 00:27,fraud_Bins-Rice,70.66,Beaverdam,OH,gas_transport,gas_transport
+01-07-2019 00:28,"fraud_Bernier, Streich and Jewess",48.91,Burlington,WA,grocery_net,grocery_net
+01-07-2019 00:29,"fraud_Baumbach, Hodkiewicz and Walsh",5.32,Montrose,NY,shopping_pos,shopping_pos
+01-07-2019 00:30,fraud_Corwin-Collins,84.19,Indianapolis,IN,gas_transport,gas_transport
+01-07-2019 00:30,fraud_Williamson LLC,1.58,Corriganville,MD,misc_pos,misc_pos
+01-07-2019 00:30,fraud_Schmeler Inc,5.74,Randolph,OH,misc_pos,misc_pos
+01-07-2019 00:30,fraud_Huels-Hahn,91.52,Alpharetta,GA,gas_transport,gas_transport
+01-07-2019 00:30,fraud_Murray-Smitham,78.85,Washington Court House,OH,grocery_pos,grocery_pos
+01-07-2019 00:32,fraud_Parisian and Sons,54.34,East Canaan,CT,gas_transport,gas_transport
+01-07-2019 00:32,"fraud_Wintheiser, Dietrich and Schimmel",8.53,Tulsa,OK,misc_pos,misc_pos
+01-07-2019 00:32,fraud_Padberg-Welch,96.29,Notrees,TX,grocery_pos,grocery_pos
+01-07-2019 00:32,fraud_Stoltenberg-Beatty,3.61,Eureka,IL,shopping_pos,shopping_pos
+01-07-2019 00:32,fraud_Parisian and Sons,83.34,Methuen,MA,gas_transport,gas_transport
+01-07-2019 00:32,fraud_Huel-Langworth,3.14,Moulton,IA,misc_net,misc_net
+01-07-2019 00:33,fraud_O'Keefe-Hudson,40.5,Warren,MI,grocery_pos,grocery_pos
+01-07-2019 00:33,fraud_Fisher Inc,35.37,Meredith,CO,shopping_net,shopping_net
+01-07-2019 00:33,fraud_Prohaska-Murray,51.85,Holliday,TX,gas_transport,gas_transport
+01-07-2019 00:33,fraud_McCullough LLC,153.23,Delhi,LA,misc_pos,misc_pos
+01-07-2019 00:34,"fraud_Kutch, Hermiston and Farrell",121.02,Phil Campbell,AL,gas_transport,gas_transport
+01-07-2019 00:34,fraud_Pouros-Conroy,145.52,Oaks,PA,shopping_pos,shopping_pos
+01-07-2019 00:34,fraud_Bogisich Inc,107.36,Oak Hill,NY,grocery_pos,grocery_pos
+01-07-2019 00:35,"fraud_Okuneva, Schneider and Rau",1.68,Oxford,MI,shopping_pos,shopping_pos
+01-07-2019 00:37,fraud_Erdman-Kertzmann,78.19,Dallas,TX,gas_transport,gas_transport
+01-07-2019 00:37,"fraud_Robel, Cummerata and Prosacco",36.22,Clayton,OK,gas_transport,gas_transport
+01-07-2019 00:37,fraud_Friesen-Stamm,52.54,University,MS,gas_transport,gas_transport
+01-07-2019 00:38,fraud_Koelpin and Sons,5.26,Minneapolis,MN,misc_net,misc_net
+01-07-2019 00:38,fraud_Rodriguez Group,54.55,Esbon,KS,gas_transport,gas_transport
+01-07-2019 00:39,fraud_Heller-Abshire,80.87,Lubbock,TX,grocery_net,grocery_net
+01-07-2019 00:39,fraud_Corwin-Collins,77.51,Dunlevy,PA,gas_transport,gas_transport
+01-07-2019 00:40,fraud_Dibbert and Sons,12.31,Marietta,SC,entertainment,entertainment
+01-07-2019 00:40,fraud_Hills-Olson,22.85,Southfield,MI,grocery_net,grocery_net
+01-07-2019 00:40,"fraud_Christiansen, Goyette and Schamberger",67.77,Orient,WA,gas_transport,gas_transport
+01-07-2019 00:40,fraud_Cummings LLC,61.48,Muskegon,MI,gas_transport,gas_transport
+01-07-2019 00:42,"fraud_Bahringer, Osinski and Block",34.94,West Long Branch,NJ,food_dining,food_dining
+01-07-2019 00:42,fraud_Koepp-Witting,80.17,Hannawa Falls,NY,grocery_pos,grocery_pos
+01-07-2019 00:43,fraud_Flatley-Durgan,265.35,Farmington,NY,misc_net,misc_net
+01-07-2019 00:43,fraud_Hills-Olson,89.86,Phenix City,AL,grocery_net,grocery_net
+01-07-2019 00:46,fraud_Conroy-Cruickshank,61.89,Armagh,PA,gas_transport,gas_transport
+01-07-2019 00:46,fraud_Bogisich Inc,29.5,Jackson,MS,grocery_pos,grocery_pos
+01-07-2019 00:47,fraud_Flatley-Durgan,4.13,Barnstable,MA,misc_net,misc_net
+01-07-2019 00:47,fraud_Schamberger-O'Keefe,147.96,Cecilton,MD,grocery_pos,grocery_pos
+01-07-2019 00:48,fraud_Koss and Sons,86.43,Elizabethtown,KY,gas_transport,gas_transport
+01-07-2019 00:48,fraud_Strosin-Cruickshank,57.01,Heiskell,TN,grocery_pos,grocery_pos
+01-07-2019 00:49,fraud_Flatley Group,5.5,Luray,MO,misc_pos,misc_pos
+01-07-2019 00:49,"fraud_Moen, Reinger and Murphy",108.38,Norwalk,OH,grocery_pos,grocery_pos
+01-07-2019 00:51,"fraud_Schaefer, Maggio and Daugherty",87.89,Ridgeland,MS,gas_transport,gas_transport
+01-07-2019 00:51,fraud_Kuhic Inc,119.55,Hurley,SD,grocery_pos,grocery_pos
+01-07-2019 00:52,"fraud_Labadie, Treutel and Bode",8.92,Union,WV,shopping_net,shopping_net
+01-07-2019 00:53,"fraud_Tillman, Dickinson and Labadie",84.78,North Augusta,SC,gas_transport,gas_transport
+01-07-2019 00:53,fraud_McDermott-Weimann,108.16,Delhi,LA,grocery_pos,grocery_pos
+01-07-2019 00:53,fraud_Dach-Nader,58.57,Lowville,NY,misc_net,misc_net
+01-07-2019 00:54,"fraud_Romaguera, Cruickshank and Greenholt",4.5,Santa Monica,CA,shopping_net,shopping_net
+01-07-2019 00:54,fraud_Kunze Inc,122.68,Ashfield,MA,grocery_pos,grocery_pos
+01-07-2019 00:55,fraud_Marks Inc,69.81,Coleharbor,ND,gas_transport,gas_transport
+01-07-2019 00:56,"fraud_Stroman, Hudson and Erdman",65.29,Altair,TX,gas_transport,gas_transport
+01-07-2019 00:56,"fraud_Bernier, Volkman and Hoeger",128.45,Boonton,NJ,misc_net,misc_net
+01-07-2019 00:56,fraud_Kling-Grant,77.79,Cleveland,AL,grocery_net,grocery_net
+01-07-2019 00:56,fraud_Lockman Ltd,101.29,Holliday,TX,grocery_pos,grocery_pos
+01-07-2019 00:57,"fraud_Bins, Balistreri and Beatty",4.77,Honokaa,HI,shopping_pos,shopping_pos
+01-07-2019 00:58,fraud_Hudson-Grady,509.99,Cascade Locks,OR,shopping_pos,shopping_pos
+01-07-2019 00:58,"fraud_Eichmann, Bogan and Rodriguez",68.5,Monitor,WA,gas_transport,gas_transport
+01-07-2019 00:58,fraud_Rutherford-Mertz,109.19,Monmouth Beach,NJ,grocery_pos,grocery_pos
+01-07-2019 01:00,fraud_Murray-Smitham,81.74,New Waverly,TX,grocery_pos,grocery_pos
+01-07-2019 01:00,fraud_Huels-Hahn,61.92,Christine,ND,gas_transport,gas_transport
+01-07-2019 01:00,fraud_Conroy-Cruickshank,88.6,Lakeland,FL,gas_transport,gas_transport
+01-07-2019 01:02,fraud_Simonis-Prohaska,5.61,Los Angeles,CA,misc_pos,misc_pos
+01-07-2019 01:03,fraud_Heathcote LLC,1.53,Heislerville,NJ,shopping_net,shopping_net
+01-07-2019 01:03,fraud_Boyer PLC,282.57,Port Saint Lucie,FL,misc_pos,misc_pos
+01-07-2019 01:03,fraud_Barton Inc,105.94,Sunflower,MS,grocery_pos,grocery_pos
+01-07-2019 01:04,fraud_Hermann and Sons,328.23,Mesa,ID,shopping_pos,shopping_pos
+01-07-2019 01:05,fraud_Donnelly PLC,327.33,Henderson,WV,misc_net,misc_net
+01-07-2019 01:05,"fraud_Raynor, Reinger and Hagenes",84.92,Saint Petersburg,FL,gas_transport,gas_transport
+01-07-2019 01:05,"fraud_Connelly, Reichert and Fritsch",50.44,Westerville,NE,gas_transport,gas_transport
+01-07-2019 01:06,"fraud_Tillman, Fritsch and Schmitt",1.26,Lanark Village,FL,misc_net,misc_net
+01-07-2019 01:07,fraud_Nienow PLC,2.28,Vienna,GA,entertainment,entertainment
+01-07-2019 01:07,fraud_Koepp-Witting,90.02,Hurley,SD,grocery_pos,grocery_pos
+01-07-2019 01:07,"fraud_Reilly, Heaney and Cole",103.83,Greenbush,VA,gas_transport,gas_transport
+01-07-2019 01:07,"fraud_Greenfelder, Bartoletti and Davis",86.9,Sebring,FL,misc_net,misc_net
+01-07-2019 01:08,"fraud_Lind, Huel and McClure",81.98,Hurley,SD,gas_transport,gas_transport
+01-07-2019 01:08,fraud_Schamberger-O'Keefe,195.95,Bauxite,AR,grocery_pos,grocery_pos
+01-07-2019 01:08,fraud_Kutch Group,44.2,Rock Springs,WY,grocery_net,grocery_net
+01-07-2019 01:09,"fraud_Lockman, West and Runte",114.49,Arcadia,MI,grocery_pos,grocery_pos
+01-07-2019 01:09,fraud_Deckow-O'Conner,106.82,Nazareth,TX,grocery_pos,grocery_pos
+01-07-2019 01:09,fraud_Kuvalis Ltd,78.75,Highland,IN,gas_transport,gas_transport
+01-07-2019 01:11,fraud_Hackett-Lueilwitz,226.4,Baton Rouge,LA,grocery_pos,grocery_pos
+01-07-2019 01:11,"fraud_Quitzon, Green and Bashirian",8.38,Mooresville,NC,shopping_pos,shopping_pos
+01-07-2019 01:11,fraud_Kilback LLC,41.83,Crownpoint,NM,grocery_pos,grocery_pos
+01-07-2019 01:11,fraud_Block-Parisian,13.65,Llano,NM,misc_net,misc_net
+01-07-2019 01:12,fraud_Flatley-Durgan,2.81,Munith,MI,misc_net,misc_net
+01-07-2019 01:12,fraud_Corwin-Collins,47.4,Clifton,SC,gas_transport,gas_transport
+01-07-2019 01:13,fraud_Padberg-Welch,80.84,Elkhart,IA,grocery_pos,grocery_pos
+01-07-2019 01:13,"fraud_Turner, Ruecker and Parisian",4.81,Diamond,OH,misc_pos,misc_pos
+01-07-2019 01:14,fraud_Bartoletti-Wunsch,77.26,Stephensport,KY,gas_transport,gas_transport
+01-07-2019 01:14,"fraud_Zboncak, Rowe and Murazik",100.08,Manderson,SD,shopping_net,shopping_net
+01-07-2019 01:14,fraud_Kuphal-Predovic,13.79,Ratcliff,TX,misc_net,misc_net
+01-07-2019 01:14,fraud_Runolfsson and Sons,78.67,Eugene,OR,grocery_net,grocery_net
+01-07-2019 01:15,"fraud_Schaefer, McGlynn and Bosco",80.63,Newhall,CA,gas_transport,gas_transport
+01-07-2019 01:15,fraud_Emard Inc,70.62,Benton,WI,gas_transport,gas_transport
+01-07-2019 01:15,fraud_Kuhic Inc,115.95,Lahoma,OK,grocery_pos,grocery_pos
+01-07-2019 01:15,"fraud_Swaniawski, Bahringer and Ledner",52.74,Joliet,IL,grocery_net,grocery_net
+01-07-2019 01:16,fraud_Spencer-Runolfsson,87.56,Meredith,CO,misc_pos,misc_pos
+01-07-2019 01:16,"fraud_Yost, Block and Koepp",35.75,Beaverdam,OH,misc_pos,misc_pos
+01-07-2019 01:16,fraud_Friesen-D'Amore,97.2,Independence,MO,gas_transport,gas_transport
+01-07-2019 01:17,fraud_Zemlak Group,2.7,Greenwich,NJ,misc_net,misc_net
+01-07-2019 01:17,"fraud_Bins, Balistreri and Beatty",8.15,Utica,KS,shopping_pos,shopping_pos
+01-07-2019 01:17,fraud_Berge LLC,85.88,Cochranton,PA,gas_transport,gas_transport
+01-07-2019 01:19,"fraud_Raynor, Reinger and Hagenes",57.42,San Diego,CA,gas_transport,gas_transport
+01-07-2019 01:19,"fraud_Nitzsche, Kessler and Wolff",9.66,Camden,NY,shopping_pos,shopping_pos
+01-07-2019 01:20,"fraud_Jenkins, Hauck and Friesen",44.9,Greenbush,VA,gas_transport,gas_transport
+01-07-2019 01:21,fraud_Denesik and Sons,3.55,Harmony,PA,shopping_pos,shopping_pos
+01-07-2019 01:22,fraud_Cole PLC,150.83,Monetta,SC,grocery_pos,grocery_pos
+01-07-2019 01:22,"fraud_Adams, Kovacek and Kuhlman",32.69,Crownpoint,NM,grocery_net,grocery_net
+01-07-2019 01:24,fraud_Wolf Inc,128.63,Cressona,PA,grocery_pos,grocery_pos
+01-07-2019 01:25,fraud_Terry-Huel,85.45,Collettsville,NC,shopping_net,shopping_net
+01-07-2019 01:25,"fraud_Connelly, Reichert and Fritsch",76.2,Tomahawk,WI,gas_transport,gas_transport
+01-07-2019 01:26,fraud_Hudson-Ratke,85.35,Nobleboro,ME,grocery_pos,grocery_pos
+01-07-2019 01:27,fraud_Conroy-Cruickshank,52.74,Newton,NH,gas_transport,gas_transport
+01-07-2019 01:27,"fraud_Streich, Hansen and Veum",76.28,Kensington,MD,gas_transport,gas_transport
+01-07-2019 01:27,fraud_Kling Inc,49.55,Bagley,WI,gas_transport,gas_transport
+01-07-2019 01:28,fraud_Hudson-Ratke,201.36,Manistique,MI,grocery_pos,grocery_pos
+01-07-2019 01:28,"fraud_Greenfelder, Bartoletti and Davis",55.93,Garrattsville,NY,misc_net,misc_net
+01-07-2019 01:28,"fraud_Zieme, Bode and Dooley",77.83,Norman,AR,gas_transport,gas_transport
+01-07-2019 01:29,fraud_Bartoletti-Wunsch,75.37,Bessemer,AL,gas_transport,gas_transport
+01-07-2019 01:29,fraud_Kling Inc,66.18,West Hartford,VT,gas_transport,gas_transport
+01-07-2019 01:29,fraud_Herman Inc,22.61,Pewee Valley,KY,misc_pos,misc_pos
+01-07-2019 01:30,fraud_Schuppe LLC,31.26,San Diego,CA,entertainment,entertainment
+01-07-2019 01:31,fraud_Padberg-Welch,128.96,East Andover,ME,grocery_pos,grocery_pos
+01-07-2019 01:32,fraud_Morissette PLC,9.27,Kirby,OH,shopping_pos,shopping_pos
+01-07-2019 01:32,"fraud_Tillman, Dickinson and Labadie",72.42,Iselin,NJ,gas_transport,gas_transport
+01-07-2019 01:32,fraud_Dach-Nader,100.78,Grandview,TX,misc_net,misc_net
+01-07-2019 01:33,fraud_Schmeler Inc,219.4,Goodrich,MI,misc_pos,misc_pos
+01-07-2019 01:33,fraud_Torphy-Goyette,85.66,Tyaskin,MD,shopping_pos,shopping_pos
+01-07-2019 01:33,fraud_Conroy-Cruickshank,42.87,Cardwell,MO,gas_transport,gas_transport
+01-07-2019 01:33,fraud_Bruen-Yost,6.33,Minnesota Lake,MN,misc_pos,misc_pos
+01-07-2019 01:33,"fraud_Zboncak, Rowe and Murazik",4.33,Mansfield,OH,shopping_net,shopping_net
+01-07-2019 01:33,"fraud_Bahringer, Schoen and Corkery",316.17,Luzerne,MI,shopping_pos,shopping_pos
+01-07-2019 01:34,"fraud_Schaefer, Maggio and Daugherty",57.72,Darien,GA,gas_transport,gas_transport
+01-07-2019 01:34,"fraud_Bahringer, Osinski and Block",94.82,Santa Monica,CA,food_dining,food_dining
+01-07-2019 01:35,fraud_Lockman Ltd,30.36,Belgrade,MT,grocery_pos,grocery_pos
+01-07-2019 01:35,fraud_Prohaska-Murray,43.64,Freedom,WY,gas_transport,gas_transport
+01-07-2019 01:35,fraud_Deckow-O'Conner,103.28,Harborcreek,PA,grocery_pos,grocery_pos
+01-07-2019 01:36,"fraud_Herman, Treutel and Dickens",40.52,West Sayville,NY,misc_net,misc_net
+01-07-2019 01:36,"fraud_Greenholt, Jacobi and Gleason",62.89,Westport,KY,gas_transport,gas_transport
+01-07-2019 01:36,fraud_Stamm-Rodriguez,31.57,Williams,IN,misc_pos,misc_pos
+01-07-2019 01:37,fraud_Kling-Ernser,45.87,Gibsonville,NC,entertainment,entertainment
+01-07-2019 01:37,fraud_Miller-Harris,93.74,Mc Cracken,KS,misc_net,misc_net
+01-07-2019 01:38,fraud_Schmitt Ltd,108.71,Kings Bay,GA,misc_net,misc_net
+01-07-2019 01:39,fraud_Funk Group,47.45,Walnut Ridge,AR,grocery_net,grocery_net
+01-07-2019 01:39,fraud_Corwin-Collins,58.38,Fields Landing,CA,gas_transport,gas_transport
+01-07-2019 01:41,fraud_Kuphal-Bartoletti,6.32,Comfrey,MN,misc_net,misc_net
+01-07-2019 01:41,"fraud_Labadie, Treutel and Bode",47.75,Paulding,OH,shopping_net,shopping_net
+01-07-2019 01:41,fraud_Conroy-Cruickshank,52.43,Cochranton,PA,gas_transport,gas_transport
+01-07-2019 01:42,fraud_Pfeffer LLC,71.37,Lake Oswego,OR,grocery_net,grocery_net
+01-07-2019 01:42,"fraud_Hermiston, Russel and Price",20.1,West Palm Beach,FL,food_dining,food_dining
+01-07-2019 01:43,fraud_Brown PLC,50.74,Oran,IA,misc_net,misc_net
+01-07-2019 01:43,fraud_Koss and Sons,47.94,Andrews,IN,gas_transport,gas_transport
+01-07-2019 01:43,fraud_Pfeffer LLC,8.55,San Antonio,TX,grocery_net,grocery_net
+01-07-2019 01:44,fraud_O'Keefe-Hudson,88.38,Hawley,MN,grocery_pos,grocery_pos
+01-07-2019 01:44,"fraud_Little, Gutmann and Lynch",8.3,Port Gibson,NY,shopping_net,shopping_net
+01-07-2019 01:44,"fraud_Rohan, White and Aufderhar",1.39,Saint James City,FL,misc_net,misc_net
+01-07-2019 01:45,fraud_Kutch LLC,47.75,Nokomis,IL,gas_transport,gas_transport
+01-07-2019 01:45,"fraud_Eichmann, Bogan and Rodriguez",58.85,Belmond,IA,gas_transport,gas_transport
+01-07-2019 01:45,fraud_Pfeffer and Sons,4.28,East Rochester,NY,shopping_pos,shopping_pos
+01-07-2019 01:46,"fraud_Tromp, Kerluke and Glover",24.75,Lake Oswego,OR,grocery_net,grocery_net
+01-07-2019 01:46,fraud_Heller-Langosh,79.77,Heidelberg,MS,gas_transport,gas_transport
+01-07-2019 01:46,fraud_Donnelly PLC,56.09,Spearsville,LA,misc_net,misc_net
+01-07-2019 01:47,fraud_Morar Inc,43.83,Harrodsburg,IN,grocery_net,grocery_net
+01-07-2019 01:49,"fraud_Mosciski, Gislason and Mertz",121.04,Egan,LA,grocery_pos,grocery_pos
+01-07-2019 01:50,"fraud_Kovacek, Dibbert and Ondricka",211.04,Jay,FL,grocery_pos,grocery_pos
+01-07-2019 01:51,fraud_Mohr-Bayer,17.88,Rhame,ND,shopping_net,shopping_net
+01-07-2019 01:51,fraud_Kling Inc,38.91,Titusville,FL,gas_transport,gas_transport
+01-07-2019 01:53,fraud_Buckridge PLC,26.64,Carroll,NE,misc_pos,misc_pos
+01-07-2019 01:54,fraud_Kemmer-Buckridge,6.65,Lowell,OR,misc_pos,misc_pos
+01-07-2019 01:54,"fraud_Zboncak, Rowe and Murazik",4.76,Corriganville,MD,shopping_net,shopping_net
+01-07-2019 01:54,"fraud_Stokes, Christiansen and Sipes",49.67,Mayersville,MS,grocery_net,grocery_net
+01-07-2019 01:54,fraud_Cummerata-Jones,39.77,Arcadia,MI,gas_transport,gas_transport
+01-07-2019 01:55,fraud_Conroy-Cruickshank,61.66,Greenview,CA,gas_transport,gas_transport
+01-07-2019 01:56,fraud_Parisian and Sons,55.07,Issaquah,WA,gas_transport,gas_transport
+01-07-2019 01:56,fraud_Mraz-Herzog,70.12,North Washington,PA,gas_transport,gas_transport
+01-07-2019 01:56,"fraud_Reichert, Shanahan and Hayes",736.82,Dunlevy,PA,shopping_net,shopping_net
+01-07-2019 01:56,fraud_Terry-Huel,6.63,Schaumburg,IL,shopping_net,shopping_net
+01-07-2019 01:57,fraud_Ankunding LLC,3.52,Parsonsfield,ME,shopping_net,shopping_net
+01-07-2019 01:57,fraud_Jast-McDermott,129.7,Shippingport,PA,shopping_pos,shopping_pos
+01-07-2019 01:58,fraud_Hermann and Sons,5.06,Stillwater,OK,shopping_pos,shopping_pos
+01-07-2019 01:58,fraud_Bartoletti-Wunsch,73.73,Unionville,MO,gas_transport,gas_transport
+01-07-2019 01:58,fraud_Spinka Inc,75.4,Phoenix,AZ,grocery_net,grocery_net
+01-07-2019 01:58,fraud_Gutmann Ltd,61.92,Lonsdale,MN,grocery_net,grocery_net
+01-07-2019 01:59,fraud_Ortiz Group,48.43,Muskegon,MI,grocery_net,grocery_net
+01-07-2019 01:59,fraud_Erdman-Kertzmann,72.15,Norwalk,CA,gas_transport,gas_transport
+01-07-2019 02:00,fraud_Hickle Group,120.62,Atlantic,VA,shopping_pos,shopping_pos
+01-07-2019 02:00,"fraud_Yost, Block and Koepp",1.43,Blairsden-Graeagle,CA,misc_pos,misc_pos
+01-07-2019 02:00,fraud_Corwin-Gorczany,6.79,Lanark Village,FL,misc_net,misc_net
+01-07-2019 02:01,fraud_Kiehn-Emmerich,226.41,Ronceverte,WV,grocery_pos,grocery_pos
+01-07-2019 02:01,fraud_Gislason Group,8.6,Prairie Hill,TX,misc_pos,misc_pos
+01-07-2019 02:01,fraud_Cartwright-Harris,141.15,Sturgis,MS,grocery_pos,grocery_pos
+01-07-2019 02:02,fraud_Torp-Labadie,63.13,Nelson,NE,gas_transport,gas_transport
+01-07-2019 02:02,"fraud_Kerluke, Considine and Macejkovic",165.73,Harrodsburg,IN,misc_net,misc_net
+01-07-2019 02:02,fraud_Prohaska-Murray,60.76,Jordanville,NY,gas_transport,gas_transport
+01-07-2019 02:02,fraud_O'Keefe-Hudson,142.46,Emporium,PA,grocery_pos,grocery_pos
+01-07-2019 02:02,fraud_Hudson-Ratke,85.23,Kenner,LA,grocery_pos,grocery_pos
+01-07-2019 02:03,fraud_Kling Inc,60.36,Hedley,TX,gas_transport,gas_transport
+01-07-2019 02:03,"fraud_Schumm, Bauch and Ondricka",119.63,Comfrey,MN,grocery_pos,grocery_pos
+01-07-2019 02:04,"fraud_Raynor, Reinger and Hagenes",57.11,Cord,AR,gas_transport,gas_transport
+01-07-2019 02:06,fraud_Bauch-Raynor,108.5,Shippingport,PA,grocery_pos,grocery_pos
+01-07-2019 02:07,"fraud_Jenkins, Hauck and Friesen",77.32,Ford,VA,gas_transport,gas_transport
+01-07-2019 02:07,fraud_Pacocha-O'Reilly,86.76,Altair,TX,grocery_pos,grocery_pos
+01-07-2019 02:08,"fraud_Schumm, Bauch and Ondricka",154.75,Tyaskin,MD,grocery_pos,grocery_pos
+01-07-2019 02:08,"fraud_Raynor, Feest and Miller",85.91,Eagarville,IL,gas_transport,gas_transport
+01-07-2019 02:08,fraud_Schamberger-O'Keefe,70.4,Warren,OH,grocery_pos,grocery_pos
+01-07-2019 02:09,"fraud_Raynor, Feest and Miller",62.31,Clarinda,IA,gas_transport,gas_transport
+01-07-2019 02:09,fraud_Koepp-Parker,93.33,Llano,NM,grocery_pos,grocery_pos
+01-07-2019 02:09,fraud_Prohaska-Murray,61.5,Mount Hope,AL,gas_transport,gas_transport
+01-07-2019 02:09,fraud_Boyer PLC,6.04,New Waverly,TX,shopping_net,shopping_net
+01-07-2019 02:10,fraud_Mraz-Herzog,85.05,Livonia,MI,gas_transport,gas_transport
+01-07-2019 02:10,"fraud_Boehm, Predovic and Reinger",1.26,Whigham,GA,misc_pos,misc_pos
+01-07-2019 02:11,fraud_Hills-Olson,99.13,Gadsden,AL,grocery_net,grocery_net
+01-07-2019 02:12,fraud_Spencer-Runolfsson,34.42,Fort Washakie,WY,misc_pos,misc_pos
+01-07-2019 02:12,"fraud_Schumm, Bauch and Ondricka",122.43,Mountain Center,CA,grocery_pos,grocery_pos
+01-07-2019 02:12,"fraud_Kohler, Lindgren and Koelpin",69.91,Pittsburgh,PA,grocery_net,grocery_net
+01-07-2019 02:13,fraud_Denesik and Sons,3.66,Heislerville,NJ,shopping_pos,shopping_pos
+01-07-2019 02:13,fraud_Friesen-Stamm,60.44,Grand Bay,AL,gas_transport,gas_transport
+01-07-2019 02:15,fraud_Kuphal-Bartoletti,2.4,El Paso,TX,misc_net,misc_net
+01-07-2019 02:16,"fraud_Towne, Walker and Borer",79.29,Stillwater,OK,grocery_net,grocery_net
+01-07-2019 02:17,"fraud_Schroeder, Hauck and Treutel",11.14,Louisville,KY,entertainment,entertainment
+01-07-2019 02:17,"fraud_Casper, Hand and Zulauf",116.68,Harrington Park,NJ,grocery_pos,grocery_pos
+01-07-2019 02:18,fraud_Bins-Rice,105.07,Trenton,TX,gas_transport,gas_transport
+01-07-2019 02:18,fraud_Douglas-White,75.05,Ratcliff,TX,entertainment,entertainment
+01-07-2019 02:18,fraud_Prohaska-Murray,60.99,Sunflower,MS,gas_transport,gas_transport
+01-07-2019 02:19,fraud_Rau and Sons,38.65,Karnack,TX,grocery_pos,grocery_pos
+01-07-2019 02:19,fraud_Conroy Ltd,308.48,Whigham,GA,shopping_pos,shopping_pos
+01-07-2019 02:19,fraud_Ortiz Group,34.76,Lebanon,VA,grocery_net,grocery_net
+01-07-2019 02:20,fraud_Lockman Ltd,211.75,Ronceverte,WV,grocery_pos,grocery_pos
+01-07-2019 02:20,"fraud_Lind, Huel and McClure",53.02,Cressona,PA,gas_transport,gas_transport
+01-07-2019 02:20,fraud_Rau and Sons,85.67,Conway,WA,grocery_pos,grocery_pos
+01-07-2019 02:21,fraud_Spinka Inc,13.5,Battle Creek,IA,grocery_net,grocery_net
+01-07-2019 02:21,fraud_Klein Group,1.52,Grand Ridge,FL,entertainment,entertainment
+01-07-2019 02:22,fraud_Kilback Group,38.05,Warren,MI,food_dining,food_dining
+01-07-2019 02:23,"fraud_Langworth, Boehm and Gulgowski",5.41,Shenandoah Junction,WV,shopping_net,shopping_net
+01-07-2019 02:23,fraud_Cole PLC,107.61,Stephensport,KY,grocery_pos,grocery_pos
+01-07-2019 02:24,"fraud_Schroeder, Hauck and Treutel",33.02,Waukesha,WI,entertainment,entertainment
+01-07-2019 02:24,fraud_Johns-Hoeger,36.7,Stephensport,KY,entertainment,entertainment
+01-07-2019 02:24,"fraud_Schumm, McLaughlin and Carter",80.5,Naples,FL,food_dining,food_dining
+01-07-2019 02:24,"fraud_Olson, Becker and Koch",68.74,Utica,MO,gas_transport,gas_transport
+01-07-2019 02:24,fraud_Lynch Ltd,8.68,Tamaroa,IL,shopping_pos,shopping_pos
+01-07-2019 02:25,fraud_Conroy-Emard,172.5,Pomona,NY,food_dining,food_dining
+01-07-2019 02:25,fraud_McDermott-Weimann,114.88,Spearsville,LA,grocery_pos,grocery_pos
+01-07-2019 02:26,"fraud_Heller, Gutmann and Zieme",184.25,Old Hickory,TN,grocery_pos,grocery_pos
+01-07-2019 02:26,fraud_Schamberger-O'Keefe,92.02,Acworth,NH,grocery_pos,grocery_pos
+01-07-2019 02:27,fraud_Rowe-Vandervort,90.15,Rock Springs,WY,grocery_net,grocery_net
+01-07-2019 02:27,fraud_Heller-Abshire,109.2,Atglen,PA,grocery_net,grocery_net
+01-07-2019 02:28,fraud_Torp-Labadie,54.82,Greenbush,VA,gas_transport,gas_transport
+01-07-2019 02:29,fraud_Padberg-Welch,22.9,Titusville,FL,grocery_pos,grocery_pos
+01-07-2019 02:30,"fraud_Stroman, Hudson and Erdman",66.42,Mount Morris,NY,gas_transport,gas_transport
+01-07-2019 02:30,"fraud_Rutherford, Homenick and Bergstrom",44.46,Cottekill,NY,grocery_net,grocery_net
+01-07-2019 02:30,fraud_Rodriguez Group,69.52,Jefferson,NY,gas_transport,gas_transport
+01-07-2019 02:30,"fraud_Connelly, Reichert and Fritsch",66.99,Rock Springs,WY,gas_transport,gas_transport
+01-07-2019 02:31,fraud_Erdman-Kertzmann,70.06,Tomahawk,WI,gas_transport,gas_transport
+01-07-2019 02:32,fraud_Kuvalis Ltd,63.9,Ozawkie,KS,gas_transport,gas_transport
+01-07-2019 02:33,fraud_Klocko LLC,4.57,Independence,MO,misc_net,misc_net
+01-07-2019 02:33,fraud_Flatley Group,48.46,Philadelphia,PA,misc_pos,misc_pos
+01-07-2019 02:34,fraud_Keeling-Crist,38.87,Bauxite,AR,misc_pos,misc_pos
+01-07-2019 02:34,fraud_Dooley Inc,8.67,Kenner,LA,shopping_pos,shopping_pos
+01-07-2019 02:34,"fraud_Haley, Jewess and Bechtelar",5.07,River,KY,shopping_pos,shopping_pos
+01-07-2019 02:34,fraud_Bauch-Blanda,5.51,Waukesha,WI,entertainment,entertainment
+01-07-2019 02:34,fraud_O'Keefe-Hudson,94.0,Waupaca,WI,grocery_pos,grocery_pos
+01-07-2019 02:35,fraud_Smitham-Schiller,61.23,Nokomis,IL,grocery_net,grocery_net
+01-07-2019 02:35,fraud_Abshire PLC,255.84,Farmington,NY,entertainment,entertainment
+01-07-2019 02:35,fraud_Kihn Inc,6.14,Oxford,MI,shopping_pos,shopping_pos
+01-07-2019 02:37,fraud_Emmerich-Luettgen,53.09,Topeka,KS,grocery_net,grocery_net
+01-07-2019 02:38,fraud_Bauch-Blanda,4.21,North Prairie,WI,entertainment,entertainment
+01-07-2019 02:38,fraud_Maggio-Fahey,4.17,Liberty Mills,IN,misc_pos,misc_pos
+01-07-2019 02:39,"fraud_Koss, McLaughlin and Mayer",173.85,Hopkins,SC,food_dining,food_dining
+01-07-2019 02:40,fraud_Emard Inc,85.41,Corona,CA,gas_transport,gas_transport
+01-07-2019 02:40,fraud_Cole PLC,114.64,Ollie,IA,grocery_pos,grocery_pos
+01-07-2019 02:41,"fraud_Schultz, Simonis and Little",176.76,Phoenix,AZ,grocery_pos,grocery_pos
+01-07-2019 02:41,fraud_Kuphal-Predovic,33.08,Lahoma,OK,misc_net,misc_net
+01-07-2019 02:41,fraud_Bradtke PLC,125.73,Brownville,NY,grocery_pos,grocery_pos
+01-07-2019 02:42,fraud_Bauch-Raynor,100.31,Birmingham,IA,grocery_pos,grocery_pos
+01-07-2019 02:43,fraud_Luettgen PLC,73.67,Spearsville,LA,gas_transport,gas_transport
+01-07-2019 02:44,fraud_Prohaska-Murray,55.43,Keisterville,PA,gas_transport,gas_transport
+01-07-2019 02:44,fraud_Friesen-D'Amore,76.22,Oxford,MI,gas_transport,gas_transport
+01-07-2019 02:44,"fraud_Streich, Dietrich and Barton",7.55,Ashfield,MA,shopping_net,shopping_net
+01-07-2019 02:45,fraud_Hintz-Bruen,28.68,Whaleyville,MD,grocery_net,grocery_net
+01-07-2019 02:45,fraud_Bauch-Raynor,211.12,Plainfield,NJ,grocery_pos,grocery_pos
+01-07-2019 02:46,fraud_Sporer Inc,72.69,Murrayville,IL,gas_transport,gas_transport
+01-07-2019 02:47,fraud_Donnelly PLC,56.56,Paint Rock,AL,misc_net,misc_net
+01-07-2019 02:47,fraud_McGlynn-Jaskolski,3.29,Joliet,IL,misc_pos,misc_pos
+01-07-2019 02:47,fraud_Terry-Huel,98.41,Mount Saint Joseph,OH,shopping_net,shopping_net
+01-07-2019 02:47,fraud_Nienow PLC,60.41,Santa Monica,CA,entertainment,entertainment
+01-07-2019 02:49,fraud_Johns Inc,3.35,Metairie,LA,entertainment,entertainment
+01-07-2019 02:49,fraud_Bailey-Morar,62.86,East Canaan,CT,grocery_pos,grocery_pos
+01-07-2019 02:49,fraud_Koelpin and Sons,9.02,Sterling City,TX,misc_net,misc_net
+01-07-2019 02:49,fraud_Koelpin and Sons,43.12,Knoxville,TN,misc_net,misc_net
+01-07-2019 02:51,fraud_Spencer-Runolfsson,42.88,Fiddletown,CA,misc_pos,misc_pos
+01-07-2019 02:54,fraud_Marks Inc,87.01,Belgrade,MT,gas_transport,gas_transport
+01-07-2019 02:54,"fraud_Ferry, Reichel and DuBuque",42.17,Baroda,MI,grocery_net,grocery_net
+01-07-2019 02:55,fraud_Bogisich Inc,165.91,Garrattsville,NY,grocery_pos,grocery_pos
+01-07-2019 02:56,fraud_Lockman Ltd,196.94,Lake Oswego,OR,grocery_pos,grocery_pos
+01-07-2019 02:56,fraud_Stoltenberg-Beatty,3.27,Norwich,OH,shopping_pos,shopping_pos
+01-07-2019 02:56,fraud_Kilback LLC,48.22,Aurora,CO,grocery_pos,grocery_pos
+01-07-2019 02:56,"fraud_Mosciski, Gislason and Mertz",85.84,West Henrietta,NY,grocery_pos,grocery_pos
+01-07-2019 02:56,fraud_Maggio-Fahey,38.93,Mayersville,MS,misc_pos,misc_pos
+01-07-2019 02:57,fraud_O'Keefe-Hudson,114.96,Comfort,WV,grocery_pos,grocery_pos
+01-07-2019 02:57,fraud_Funk Group,61.02,Diamond,OH,grocery_net,grocery_net
+01-07-2019 02:57,"fraud_Lockman, West and Runte",104.12,Smith River,CA,grocery_pos,grocery_pos
+01-07-2019 02:59,fraud_Pfeffer and Sons,4.0,Minneapolis,MN,shopping_pos,shopping_pos
+01-07-2019 02:59,"fraud_Boehm, Predovic and Reinger",35.36,Lorenzo,TX,misc_pos,misc_pos
+01-07-2019 03:01,fraud_Ledner-Pfannerstill,53.84,Webster City,IA,gas_transport,gas_transport
+01-07-2019 03:02,fraud_Shields Inc,51.74,Zaleski,OH,grocery_net,grocery_net
+01-07-2019 03:02,fraud_McCullough Group,60.82,Valdosta,GA,grocery_net,grocery_net
+01-07-2019 03:02,fraud_Ledner-Pfannerstill,71.54,Littleton,CO,gas_transport,gas_transport
+01-07-2019 03:02,fraud_Torp-Lemke,1.19,Ridgeland,MS,misc_pos,misc_pos
+01-07-2019 03:04,fraud_Kuvalis Ltd,65.02,Indianapolis,IN,gas_transport,gas_transport
+01-07-2019 03:04,"fraud_Schumm, Bauch and Ondricka",132.79,Yellowstone National Park,WY,grocery_pos,grocery_pos
+01-07-2019 03:05,"fraud_Connelly, Reichert and Fritsch",74.48,Bigelow,MN,gas_transport,gas_transport
+01-07-2019 03:05,"fraud_Ferry, Lynch and Kautzer",7.25,Wichita,KS,misc_net,misc_net
+01-07-2019 03:05,fraud_O'Keefe-Hudson,85.85,Brantley,AL,grocery_pos,grocery_pos
+01-07-2019 03:06,fraud_Koepp-Witting,86.81,Bradley,SC,grocery_pos,grocery_pos
+01-07-2019 03:06,"fraud_Cremin, Hamill and Reichel",38.81,Utica,PA,misc_pos,misc_pos
+01-07-2019 03:06,fraud_Durgan-Auer,1.25,Holliday,TX,misc_net,misc_net
+01-07-2019 03:07,fraud_Mraz-Herzog,71.55,Winter,WI,gas_transport,gas_transport
+01-07-2019 03:07,"fraud_Lockman, West and Runte",32.36,Leo,IN,grocery_pos,grocery_pos
+01-07-2019 03:07,fraud_Gibson-Deckow,1.36,Atglen,PA,entertainment,entertainment
+01-07-2019 03:08,"fraud_Robel, Cummerata and Prosacco",94.86,Rhame,ND,gas_transport,gas_transport
+01-07-2019 03:08,fraud_Beier LLC,144.72,Warren,MI,entertainment,entertainment
+01-07-2019 03:09,fraud_Bruen-Yost,288.77,Moores Hill,IN,misc_pos,misc_pos
+01-07-2019 03:09,fraud_Ledner-Pfannerstill,101.51,Key West,FL,gas_transport,gas_transport
+01-07-2019 03:09,fraud_Wolf Inc,87.48,Scotia,SC,grocery_pos,grocery_pos
+01-07-2019 03:09,"fraud_Raynor, Reinger and Hagenes",57.6,Manley,NE,gas_transport,gas_transport
+01-07-2019 03:10,fraud_Sporer Inc,65.86,Phoenix,AZ,gas_transport,gas_transport
+01-07-2019 03:10,"fraud_Mosciski, Gislason and Mertz",72.71,Lawrence,MA,grocery_pos,grocery_pos
+01-07-2019 03:10,fraud_Pouros-Conroy,1.06,Oxford,MI,shopping_pos,shopping_pos
+01-07-2019 03:11,fraud_Dach-Nader,6.37,Clayton,OK,misc_net,misc_net
+01-07-2019 03:13,fraud_DuBuque LLC,93.56,Mount Morris,NY,grocery_pos,grocery_pos
+01-07-2019 03:13,"fraud_Schaefer, McGlynn and Bosco",67.19,Princeton,IA,gas_transport,gas_transport
+01-07-2019 03:13,fraud_Mante Group,1.17,Titusville,FL,misc_net,misc_net
+01-07-2019 03:14,fraud_Kutch and Sons,79.28,New Holstein,WI,grocery_pos,grocery_pos
+01-07-2019 03:15,fraud_Sporer Inc,89.11,Thida,AR,gas_transport,gas_transport
+01-07-2019 03:15,fraud_Kiehn Inc,64.13,Bessemer,AL,grocery_pos,grocery_pos
+01-07-2019 03:15,fraud_Donnelly PLC,7.32,Lakeview,MI,misc_net,misc_net
+01-07-2019 03:16,"fraud_Lehner, Reichert and Mills",7.71,Laguna Hills,CA,misc_pos,misc_pos
+01-07-2019 03:17,"fraud_Willms, Kris and Bergnaum",1.98,Bay Minette,AL,shopping_pos,shopping_pos
+01-07-2019 03:17,fraud_Kunde-Sanford,9.09,Tickfaw,LA,misc_net,misc_net
+01-07-2019 03:17,"fraud_Rutherford, Homenick and Bergstrom",85.46,Clarksville,TN,grocery_net,grocery_net
+01-07-2019 03:17,fraud_Bins-Rice,55.2,Thomas,WV,gas_transport,gas_transport
+01-07-2019 03:19,fraud_Hudson-Ratke,116.36,Hudson,KS,grocery_pos,grocery_pos
+01-07-2019 03:19,fraud_Gerlach Inc,8.42,Cassatt,SC,shopping_net,shopping_net
+01-07-2019 03:21,fraud_Luettgen PLC,60.69,Corsica,PA,gas_transport,gas_transport
+01-07-2019 03:21,"fraud_Douglas, Schneider and Turner",144.88,West Hartford,VT,shopping_pos,shopping_pos
+01-07-2019 03:21,"fraud_Rippin, Kub and Mann",42.88,Mesa,ID,misc_net,misc_net
+01-07-2019 03:22,fraud_Huels-Nolan,42.06,Centerview,MO,gas_transport,gas_transport
+01-07-2019 03:23,fraud_Bartoletti-Wunsch,42.45,Coleharbor,ND,gas_transport,gas_transport
+01-07-2019 03:23,fraud_Conroy-Cruickshank,96.47,Lawrence,MA,gas_transport,gas_transport
+01-07-2019 03:24,fraud_Pagac LLC,4.87,Ash Flat,AR,shopping_pos,shopping_pos
+01-07-2019 03:24,"fraud_Zieme, Bode and Dooley",67.6,Pomona,NY,gas_transport,gas_transport
+01-07-2019 03:24,fraud_Denesik and Sons,8.41,Brinson,GA,shopping_pos,shopping_pos
+01-07-2019 03:26,fraud_Cummings Group,46.22,Kansas City,MO,grocery_net,grocery_net
+01-07-2019 03:26,fraud_Medhurst PLC,213.85,Enola,AR,shopping_net,shopping_net
+01-07-2019 03:27,fraud_Herman Inc,253.93,Coleharbor,ND,misc_pos,misc_pos
+01-07-2019 03:27,"fraud_Huel, Hammes and Witting",96.61,Meadville,MO,grocery_pos,grocery_pos
+01-07-2019 03:28,"fraud_Kerluke, Kertzmann and Wiza",10.49,Heart Butte,MT,misc_net,misc_net
+01-07-2019 03:31,fraud_Medhurst PLC,198.33,Orient,NY,shopping_net,shopping_net
+01-07-2019 03:31,fraud_Klocko LLC,1.47,Meridian,TX,misc_net,misc_net
+01-07-2019 03:31,fraud_Kiehn-Emmerich,182.43,West Sayville,NY,grocery_pos,grocery_pos
+01-07-2019 03:31,"fraud_Johnson, Runolfsdottir and Mayer",6.1,River,KY,misc_net,misc_net
+01-07-2019 03:31,fraud_Gleason-Macejkovic,430.66,Parks,AZ,shopping_net,shopping_net
+01-07-2019 03:31,fraud_Ledner-Pfannerstill,71.39,Burns Flat,OK,gas_transport,gas_transport
+01-07-2019 03:32,fraud_Goldner-Lemke,59.79,Timberville,VA,entertainment,entertainment
+01-07-2019 03:32,fraud_Bruen-Yost,9.5,Mc Nabb,IL,misc_pos,misc_pos
+01-07-2019 03:32,fraud_Cummings Group,33.5,North Loup,NE,grocery_net,grocery_net
+01-07-2019 03:33,fraud_Mayert Group,175.36,Montrose,NY,shopping_pos,shopping_pos
+01-07-2019 03:33,fraud_Denesik and Sons,94.38,Barnard,SD,shopping_pos,shopping_pos
+01-07-2019 03:34,fraud_Dickinson-Rempel,29.33,Juliette,GA,misc_pos,misc_pos
+01-07-2019 03:34,fraud_Friesen-Stamm,69.09,Washington,DC,gas_transport,gas_transport
+01-07-2019 03:35,"fraud_Ferry, Lynch and Kautzer",3.06,Tamaroa,IL,misc_net,misc_net
+01-07-2019 03:36,fraud_Ledner-Pfannerstill,48.78,Spencer,SD,gas_transport,gas_transport
+01-07-2019 03:36,fraud_Kozey-Boehm,8.56,Ratcliff,TX,shopping_net,shopping_net
+01-07-2019 03:36,"fraud_Greenholt, Jacobi and Gleason",31.34,Oolitic,IN,gas_transport,gas_transport
+01-07-2019 03:36,"fraud_Schultz, Simonis and Little",74.85,Logan,IL,grocery_pos,grocery_pos
+01-07-2019 03:36,"fraud_Cremin, Hamill and Reichel",85.66,Knoxville,TN,misc_pos,misc_pos
+01-07-2019 03:38,fraud_Torphy-Goyette,9.34,North Augusta,SC,shopping_pos,shopping_pos
+01-07-2019 03:39,fraud_Huel Ltd,2.47,Greenwich,NJ,misc_net,misc_net
+01-07-2019 03:39,fraud_Auer-Mosciski,176.07,Manistique,MI,grocery_pos,grocery_pos
+01-07-2019 03:40,"fraud_Jones, Sawayn and Romaguera",307.17,Grandview,TX,misc_net,misc_net
+01-07-2019 03:40,fraud_Pacocha-O'Reilly,67.19,Detroit,MI,grocery_pos,grocery_pos
+01-07-2019 03:41,fraud_Strosin-Cruickshank,91.84,Washington Court House,OH,grocery_pos,grocery_pos
+01-07-2019 03:41,fraud_Friesen Inc,12.68,Saint Louis,MO,shopping_pos,shopping_pos
+01-07-2019 03:41,"fraud_Raynor, Reinger and Hagenes",53.66,Cross Plains,TX,gas_transport,gas_transport
+01-07-2019 03:42,fraud_Buckridge PLC,5.76,Webster City,IA,misc_pos,misc_pos
+01-07-2019 03:42,fraud_Buckridge PLC,52.15,Saint Paul,MN,misc_pos,misc_pos
+01-07-2019 03:42,"fraud_Koss, McLaughlin and Mayer",56.32,Stillwater,OK,food_dining,food_dining
+01-07-2019 03:42,fraud_Friesen-Stamm,82.35,Marienville,PA,gas_transport,gas_transport
+01-07-2019 03:44,fraud_Marks Inc,57.64,Pembroke Township,IL,gas_transport,gas_transport
+01-07-2019 03:45,fraud_Smitham-Schiller,26.04,Mallie,KY,grocery_net,grocery_net
+01-07-2019 03:45,fraud_Herzog Ltd,9.98,Palmdale,CA,misc_pos,misc_pos
+01-07-2019 03:46,fraud_Auer-West,146.35,Manor,PA,shopping_net,shopping_net
+01-07-2019 03:46,"fraud_Zieme, Bode and Dooley",47.6,Moorhead,MS,gas_transport,gas_transport
+01-07-2019 03:46,fraud_Bogisich Inc,118.19,Tyaskin,MD,grocery_pos,grocery_pos
+01-07-2019 03:46,"fraud_Tillman, Fritsch and Schmitt",129.95,Parsonsfield,ME,misc_net,misc_net
+01-07-2019 03:47,fraud_Schmitt Inc,48.84,Pembroke Township,IL,gas_transport,gas_transport
+01-07-2019 03:47,fraud_Huels-Nolan,50.71,East Andover,ME,gas_transport,gas_transport
+01-07-2019 03:48,fraud_Bruen-Yost,3.73,Surrency,GA,misc_pos,misc_pos
+01-07-2019 03:48,fraud_Rempel Inc,6.8,May,TX,shopping_net,shopping_net
+01-07-2019 03:48,fraud_Barton Inc,159.85,Steuben,ME,grocery_pos,grocery_pos
+01-07-2019 03:48,"fraud_Schoen, Kuphal and Nitzsche",83.14,Whigham,GA,grocery_pos,grocery_pos
+01-07-2019 03:49,fraud_Hills-Olson,63.67,Parker Dam,CA,grocery_net,grocery_net
+01-07-2019 03:50,fraud_Kutch and Sons,125.94,Browning,MO,grocery_pos,grocery_pos
+01-07-2019 03:51,"fraud_Johnson, Runolfsdottir and Mayer",1.88,Mulberry Grove,IL,misc_net,misc_net
+01-07-2019 03:53,"fraud_Daugherty, Pouros and Beahan",2.04,Paulding,OH,shopping_pos,shopping_pos
+01-07-2019 03:53,"fraud_Ruecker, Beer and Collier",1.73,Lahoma,OK,shopping_net,shopping_net
+01-07-2019 03:53,fraud_Kutch LLC,38.27,Notrees,TX,gas_transport,gas_transport
+01-07-2019 03:54,fraud_Torp-Labadie,65.11,Camden,MO,gas_transport,gas_transport
+01-07-2019 03:54,fraud_Wuckert-Walter,47.46,Denham Springs,LA,grocery_net,grocery_net
+01-07-2019 03:55,"fraud_Kovacek, Dibbert and Ondricka",222.6,Leonard,TX,grocery_pos,grocery_pos
+01-07-2019 03:55,"fraud_Casper, Hand and Zulauf",59.25,Boonton,NJ,grocery_pos,grocery_pos
+01-07-2019 03:56,fraud_Ledner-Pfannerstill,61.98,Grant,AL,gas_transport,gas_transport
+01-07-2019 03:56,fraud_Koelpin and Sons,2.88,Parsonsfield,ME,misc_net,misc_net
+01-07-2019 03:57,fraud_Bauch-Raynor,181.27,Indianapolis,IN,grocery_pos,grocery_pos
+01-07-2019 03:57,fraud_Bradtke PLC,106.63,Orr,MN,grocery_pos,grocery_pos
+01-07-2019 03:57,fraud_Halvorson Group,9.09,Bay Minette,AL,misc_pos,misc_pos
+01-07-2019 03:57,fraud_Heidenreich PLC,108.6,Utica,PA,grocery_pos,grocery_pos
+01-07-2019 03:57,"fraud_Jenkins, Hauck and Friesen",66.8,Rockwood,PA,gas_transport,gas_transport
+01-07-2019 03:58,"fraud_Willms, Kris and Bergnaum",131.19,Williams,IN,shopping_pos,shopping_pos
+01-07-2019 03:58,"fraud_Johnson, Runolfsdottir and Mayer",958.51,Morrisdale,PA,misc_net,misc_net
+01-07-2019 03:58,"fraud_Schumm, Bauch and Ondricka",117.86,Freedom,WY,grocery_pos,grocery_pos
+01-07-2019 03:58,fraud_Marks Inc,69.99,Saint Paul,MN,gas_transport,gas_transport
+01-07-2019 03:59,fraud_Hickle Group,3.35,Paulding,OH,shopping_pos,shopping_pos
+01-07-2019 03:59,fraud_Lemke-Gutmann,111.83,Oak Hill,NY,shopping_net,shopping_net
+01-07-2019 03:59,fraud_Vandervort-Funk,179.84,Holcomb,KS,grocery_pos,grocery_pos
+01-07-2019 03:59,fraud_Murray-Smitham,119.6,Holloway,OH,grocery_pos,grocery_pos
+01-07-2019 03:59,"fraud_Lehner, Reichert and Mills",38.69,Dieterich,IL,misc_pos,misc_pos
+01-07-2019 04:00,"fraud_Lehner, Mosciski and King",1.25,Lohrville,IA,misc_net,misc_net
+01-07-2019 04:00,"fraud_Romaguera, Cruickshank and Greenholt",1.81,Andrews,IN,shopping_net,shopping_net
+01-07-2019 04:00,fraud_Padberg-Welch,78.03,Karnack,TX,grocery_pos,grocery_pos
+01-07-2019 04:01,fraud_Dibbert-Green,36.21,Naples,FL,entertainment,entertainment
+01-07-2019 04:01,"fraud_Lockman, West and Runte",100.01,Haw River,NC,grocery_pos,grocery_pos
+01-07-2019 04:02,fraud_Bogisich Inc,99.44,Altonah,UT,grocery_pos,grocery_pos
+01-07-2019 04:02,fraud_Marks Inc,71.0,North Prairie,WI,gas_transport,gas_transport
+01-07-2019 04:02,fraud_Kris-Padberg,15.54,Stirling,NJ,shopping_pos,shopping_pos
+01-07-2019 04:04,fraud_Barton Inc,108.37,Livonia,MI,grocery_pos,grocery_pos
+01-07-2019 04:04,fraud_Kerluke Inc,6.7,Camden,NY,misc_net,misc_net
+01-07-2019 04:04,fraud_Spinka Inc,71.72,Auburn,ME,grocery_net,grocery_net
+01-07-2019 04:04,fraud_Goldner-Lemke,4.47,Karnack,TX,entertainment,entertainment
+01-07-2019 04:04,fraud_Brown PLC,1.29,Pembroke,NC,misc_net,misc_net
+01-07-2019 04:05,fraud_Koss and Sons,30.43,Kirby,OH,gas_transport,gas_transport
+01-07-2019 04:05,fraud_Towne LLC,34.39,Helm,CA,misc_pos,misc_pos
+01-07-2019 04:05,"fraud_Christiansen, Goyette and Schamberger",32.75,Norwich,OH,gas_transport,gas_transport
+01-07-2019 04:07,"fraud_Schaefer, Maggio and Daugherty",76.74,Paxton,MA,gas_transport,gas_transport
+01-07-2019 04:07,fraud_Kihn Inc,1.47,Bay Minette,AL,shopping_pos,shopping_pos
+01-07-2019 04:07,fraud_Bogisich Inc,154.61,Rule,TX,grocery_pos,grocery_pos
+01-07-2019 04:07,"fraud_Lehner, Mosciski and King",89.72,Leetsdale,PA,misc_net,misc_net
+01-07-2019 04:08,fraud_Zemlak Group,8.59,East Andover,ME,misc_net,misc_net
+01-07-2019 04:08,fraud_Prohaska-Murray,45.42,Camden,MO,gas_transport,gas_transport
+01-07-2019 04:08,fraud_Bauch-Raynor,80.72,Fullerton,NE,grocery_pos,grocery_pos
+01-07-2019 04:09,fraud_Hintz-Bruen,61.48,Moab,UT,grocery_net,grocery_net
+01-07-2019 04:10,"fraud_Lehner, Reichert and Mills",6.01,Delhi,LA,misc_pos,misc_pos
+01-07-2019 04:11,fraud_Pacocha-Bauch,1.55,Greenwich,NJ,shopping_pos,shopping_pos
+01-07-2019 04:11,fraud_Barrows PLC,123.85,Manderson,SD,shopping_pos,shopping_pos
+01-07-2019 04:12,fraud_Murray-Smitham,87.3,Rockwell,IA,grocery_pos,grocery_pos
+01-07-2019 04:12,"fraud_Goyette, Howell and Collier",137.34,New Boston,IL,shopping_pos,shopping_pos
+01-07-2019 04:14,fraud_Sporer Inc,40.39,Redford,MO,gas_transport,gas_transport
+01-07-2019 04:14,fraud_Koss and Sons,76.4,Winter,WI,gas_transport,gas_transport
+01-07-2019 04:14,"fraud_Tromp, Kerluke and Glover",52.52,Haw River,NC,grocery_net,grocery_net
+01-07-2019 04:14,fraud_Terry-Huel,76.52,Beasley,TX,shopping_net,shopping_net
+01-07-2019 04:15,fraud_Auer-Mosciski,199.83,Roma,TX,grocery_pos,grocery_pos
+01-07-2019 04:15,fraud_Huels-Nolan,45.05,Shields,ND,gas_transport,gas_transport
+01-07-2019 04:15,fraud_Trantow PLC,79.5,Moravian Falls,NC,grocery_net,grocery_net
+01-07-2019 04:15,"fraud_Stroman, Hudson and Erdman",55.69,Eagarville,IL,gas_transport,gas_transport
+01-07-2019 04:16,fraud_Auer-Mosciski,86.18,Gadsden,AL,grocery_pos,grocery_pos
+01-07-2019 04:16,"fraud_Langworth, Boehm and Gulgowski",13.98,Parsonsfield,ME,shopping_net,shopping_net
+01-07-2019 04:16,fraud_Bauch-Raynor,144.73,Thrall,TX,grocery_pos,grocery_pos
+01-07-2019 04:17,"fraud_Quitzon, Green and Bashirian",5.44,Utica,KS,shopping_pos,shopping_pos
+01-07-2019 04:18,"fraud_Larkin, Stracke and Greenfelder",87.21,Edinburg,VA,entertainment,entertainment
+01-07-2019 04:19,"fraud_Douglas, Schneider and Turner",1.11,Lamy,NM,shopping_pos,shopping_pos
+01-07-2019 04:19,fraud_Barton Inc,199.6,Wilmington,NC,grocery_pos,grocery_pos
+01-07-2019 04:19,fraud_Jaskolski-Vandervort,32.28,Tyler,TX,misc_net,misc_net
+01-07-2019 04:20,fraud_Berge LLC,40.73,Achille,OK,gas_transport,gas_transport
+01-07-2019 04:20,fraud_McCullough LLC,9.11,Grover,NC,misc_pos,misc_pos
+01-07-2019 04:20,fraud_Kiehn-Emmerich,129.11,Red River,NM,grocery_pos,grocery_pos
+01-07-2019 04:21,fraud_Pouros-Conroy,139.25,Moulton,IA,shopping_pos,shopping_pos
+01-07-2019 04:21,fraud_Klein Group,15.9,Delhi,LA,entertainment,entertainment
+01-07-2019 04:22,"fraud_Jones, Sawayn and Romaguera",2.28,Ruth,NV,misc_net,misc_net
+01-07-2019 04:22,"fraud_Welch, Rath and Koepp",18.61,Grassflat,PA,entertainment,entertainment
+01-07-2019 04:22,fraud_Shields Inc,46.22,Avera,GA,grocery_net,grocery_net
+01-07-2019 04:22,"fraud_Parisian, Schiller and Altenwerth",8.1,Thomas,WV,misc_net,misc_net
+01-07-2019 04:23,fraud_Mohr-Bayer,5.34,Tulsa,OK,shopping_net,shopping_net
+01-07-2019 04:24,fraud_Bailey-Morar,124.45,Freedom,WY,grocery_pos,grocery_pos
+01-07-2019 04:24,"fraud_Boehm, Predovic and Reinger",2.03,Montrose,NY,misc_pos,misc_pos
+01-07-2019 04:26,fraud_Kuhic Inc,62.03,Albany,NY,grocery_pos,grocery_pos
+01-07-2019 04:27,fraud_Berge LLC,54.42,Morrisdale,PA,gas_transport,gas_transport
+01-07-2019 04:28,fraud_Vandervort-Funk,85.45,Bronx,NY,grocery_pos,grocery_pos
+01-07-2019 04:28,"fraud_Schultz, Simonis and Little",133.81,Blairstown,MO,grocery_pos,grocery_pos
+01-07-2019 04:28,fraud_Kassulke PLC,2.3,Holstein,NE,shopping_net,shopping_net
+01-07-2019 04:29,fraud_Kiehn-Emmerich,147.26,Corriganville,MD,grocery_pos,grocery_pos
+01-07-2019 04:29,"fraud_Reinger, Weissnat and Strosin",50.79,Unionville,MO,food_dining,food_dining
+01-07-2019 04:30,fraud_Conroy-Cruickshank,87.43,Pittsburgh,PA,gas_transport,gas_transport
+01-07-2019 04:30,fraud_Emard Inc,84.94,Thomas,WV,gas_transport,gas_transport
+01-07-2019 04:31,fraud_Berge LLC,71.51,Spring Church,PA,gas_transport,gas_transport
+01-07-2019 04:32,fraud_Haley Group,7.41,Laramie,WY,misc_pos,misc_pos
+01-07-2019 04:32,fraud_Murray-Smitham,122.11,Cromona,KY,grocery_pos,grocery_pos
+01-07-2019 04:32,"fraud_Lockman, West and Runte",62.67,Wilmette,IL,grocery_pos,grocery_pos
+01-07-2019 04:33,"fraud_Moen, Reinger and Murphy",113.59,Elkhart,IA,grocery_pos,grocery_pos
+01-07-2019 04:34,fraud_Sporer Inc,75.94,Mansfield,OH,gas_transport,gas_transport
+01-07-2019 04:36,"fraud_Reilly, Heaney and Cole",32.25,Paint Rock,AL,gas_transport,gas_transport
+01-07-2019 04:36,fraud_Bogisich Inc,108.41,Hampton,FL,grocery_pos,grocery_pos
+01-07-2019 04:36,"fraud_Wintheiser, Dietrich and Schimmel",9.54,Lakeport,CA,misc_pos,misc_pos
+01-07-2019 04:36,fraud_Beier LLC,16.51,Grand Ridge,FL,entertainment,entertainment
+01-07-2019 04:37,fraud_Hackett-Lueilwitz,113.23,Dubre,KY,grocery_pos,grocery_pos
+01-07-2019 04:37,fraud_Gutmann-Upton,126.71,Houston,TX,misc_pos,misc_pos
+01-07-2019 04:37,fraud_Stamm-Rodriguez,2.8,Grand Bay,AL,misc_pos,misc_pos
+01-07-2019 04:37,fraud_McDermott-Weimann,85.01,Paulding,OH,grocery_pos,grocery_pos
+01-07-2019 04:38,"fraud_Lockman, West and Runte",37.84,Woodville,AL,grocery_pos,grocery_pos
+01-07-2019 04:38,"fraud_Olson, Becker and Koch",58.21,Turner,MT,gas_transport,gas_transport
+01-07-2019 04:39,fraud_Doyle Ltd,212.97,Burlington,WA,grocery_pos,grocery_pos
+01-07-2019 04:39,fraud_O'Keefe-Hudson,81.83,Bradley,SC,grocery_pos,grocery_pos
+01-07-2019 04:39,fraud_Emmerich-Luettgen,57.17,Mobile,AL,grocery_net,grocery_net
+01-07-2019 04:39,fraud_Hermann and Sons,2.95,Indian Wells,CA,shopping_pos,shopping_pos
+01-07-2019 04:40,"fraud_Kutch, Hermiston and Farrell",66.6,Bradley,SC,gas_transport,gas_transport
+01-07-2019 04:41,fraud_McCullough Group,51.33,Loxahatchee,FL,grocery_net,grocery_net
+01-07-2019 04:42,"fraud_Towne, Walker and Borer",58.05,West Sayville,NY,grocery_net,grocery_net
+01-07-2019 04:43,"fraud_Nicolas, Hills and McGlynn",54.86,De Queen,AR,entertainment,entertainment
+01-07-2019 04:46,"fraud_Kutch, Hermiston and Farrell",56.72,Delhi,LA,gas_transport,gas_transport
+01-07-2019 04:46,"fraud_Bahringer, Schoen and Corkery",7.49,Belmond,IA,shopping_pos,shopping_pos
+01-07-2019 04:46,fraud_Erdman-Kertzmann,69.91,Norman,AR,gas_transport,gas_transport
+01-07-2019 04:46,"fraud_Gottlieb, Considine and Schultz",1.56,Cardwell,MO,shopping_net,shopping_net
+01-07-2019 04:47,fraud_Gutmann Ltd,36.06,Tekoa,WA,grocery_net,grocery_net
+01-07-2019 04:49,fraud_Emard Inc,45.29,Romulus,MI,gas_transport,gas_transport
+01-07-2019 04:49,fraud_Pfeffer LLC,47.1,Fayetteville,NC,grocery_net,grocery_net
+01-07-2019 04:49,"fraud_Armstrong, Walter and Gottlieb",39.29,Palmdale,CA,food_dining,food_dining
+01-07-2019 04:49,fraud_Prohaska-Murray,59.47,Utica,KS,gas_transport,gas_transport
+01-07-2019 04:50,fraud_Schamberger-O'Keefe,79.0,Pointe Aux Pins,MI,grocery_pos,grocery_pos
+01-07-2019 04:51,fraud_Williamson LLC,42.84,Utica,PA,misc_pos,misc_pos
+01-07-2019 04:51,"fraud_Stroman, Hudson and Erdman",34.28,Stanchfield,MN,gas_transport,gas_transport
+01-07-2019 04:52,fraud_Barton Inc,123.62,Luzerne,MI,grocery_pos,grocery_pos
+01-07-2019 04:52,fraud_Terry-Huel,4.37,Greenwood,IN,shopping_net,shopping_net
+01-07-2019 04:54,"fraud_Willms, Kris and Bergnaum",1.29,Rule,TX,shopping_pos,shopping_pos
+01-07-2019 04:55,fraud_Stark-Batz,1.37,Santa Monica,CA,entertainment,entertainment
+01-07-2019 04:55,fraud_Gutmann-Upton,39.26,Brooklin,ME,misc_pos,misc_pos
+01-07-2019 04:55,"fraud_Morissette, Weber and Wiegand",68.16,Colorado Springs,CO,grocery_net,grocery_net
+01-07-2019 04:56,"fraud_Casper, Hand and Zulauf",136.21,Jelm,WY,grocery_pos,grocery_pos
+01-07-2019 04:56,fraud_Vandervort-Funk,194.14,Moravian Falls,NC,grocery_pos,grocery_pos
+01-07-2019 04:56,fraud_Sporer Inc,70.98,Glendale,CA,gas_transport,gas_transport
+01-07-2019 04:56,"fraud_Streich, Hansen and Veum",41.75,Stephensport,KY,gas_transport,gas_transport
+01-07-2019 04:57,"fraud_Greenfelder, Bartoletti and Davis",6.59,Melbourne,FL,misc_net,misc_net
+01-07-2019 04:57,fraud_Kling Inc,45.2,Indianapolis,IN,gas_transport,gas_transport
+01-07-2019 04:57,fraud_Roberts-Beahan,5.44,Haynes,AR,misc_pos,misc_pos
+01-07-2019 04:59,"fraud_Raynor, Feest and Miller",41.82,Luzerne,MI,gas_transport,gas_transport
+01-07-2019 04:59,fraud_McGlynn-Heathcote,256.21,North Prairie,WI,misc_net,misc_net
+01-07-2019 05:00,"fraud_Ferry, Reichel and DuBuque",26.62,Wilmette,IL,grocery_net,grocery_net
+01-07-2019 05:00,"fraud_Quitzon, Green and Bashirian",7.04,Tiptonville,TN,shopping_pos,shopping_pos
+01-07-2019 05:00,fraud_Cummings Group,64.42,Matthews,MO,grocery_net,grocery_net
+01-07-2019 05:00,fraud_Rodriguez Group,74.83,Pointe Aux Pins,MI,gas_transport,gas_transport
+01-07-2019 05:00,fraud_Bogisich-Homenick,25.74,Cisco,IL,misc_net,misc_net
+01-07-2019 05:01,fraud_Harris Inc,59.73,Breesport,NY,gas_transport,gas_transport
+01-07-2019 05:01,fraud_Koepp-Parker,129.39,Kirby,OH,grocery_pos,grocery_pos
+01-07-2019 05:01,"fraud_Ferry, Lynch and Kautzer",28.29,Deltona,FL,misc_net,misc_net
+01-07-2019 05:02,fraud_Friesen-Stamm,62.11,Moro,IL,gas_transport,gas_transport
+01-07-2019 05:02,fraud_Daugherty-Thompson,113.93,Melbourne,FL,food_dining,food_dining
+01-07-2019 05:02,fraud_Denesik and Sons,9.77,Fields Landing,CA,shopping_pos,shopping_pos
+01-07-2019 05:02,fraud_Huels-Nolan,42.9,Irvine,PA,gas_transport,gas_transport
+01-07-2019 05:03,fraud_Bins-Rice,81.9,Scotia,SC,gas_transport,gas_transport
+01-07-2019 05:03,fraud_Schmitt Inc,40.37,Uledi,PA,gas_transport,gas_transport
+01-07-2019 05:04,fraud_Bruen-Yost,56.2,Sun City,CA,misc_pos,misc_pos
+01-07-2019 05:05,fraud_Kemmer-Reinger,33.17,Diamond,OH,grocery_net,grocery_net
+01-07-2019 05:05,fraud_Heller-Langosh,66.99,Elizabeth,NJ,gas_transport,gas_transport
+01-07-2019 05:05,fraud_Koss and Sons,57.82,Tyaskin,MD,gas_transport,gas_transport
+01-07-2019 05:05,"fraud_Schultz, Simonis and Little",98.59,Thompson,UT,grocery_pos,grocery_pos
+01-07-2019 05:05,"fraud_Zboncak, Rowe and Murazik",717.32,Louisiana,MO,shopping_net,shopping_net
+01-07-2019 05:05,fraud_Cummings LLC,84.9,Karnack,TX,gas_transport,gas_transport
+01-07-2019 05:06,"fraud_Harris, Gusikowski and Heaney",30.57,New Ellenton,SC,grocery_net,grocery_net
+01-07-2019 05:06,"fraud_Douglas, Schneider and Turner",144.91,West Green,GA,shopping_pos,shopping_pos
+01-07-2019 05:07,"fraud_Weimann, Kuhic and Beahan",6.63,Mount Hope,AL,shopping_pos,shopping_pos
+01-07-2019 05:08,fraud_Koepp-Parker,87.75,Wichita,KS,grocery_pos,grocery_pos
+01-07-2019 05:08,"fraud_Morissette, Weber and Wiegand",47.06,De Soto,KS,grocery_net,grocery_net
+01-07-2019 05:09,"fraud_McCullough, Hudson and Schuster",127.91,Cuyahoga Falls,OH,food_dining,food_dining
+01-07-2019 05:09,fraud_Klocko LLC,5.9,Dallas,TX,misc_net,misc_net
+01-07-2019 05:09,fraud_Cole PLC,58.82,Beaver Falls,PA,grocery_pos,grocery_pos
+01-07-2019 05:09,fraud_Dickinson-Rempel,2.36,Parsonsfield,ME,misc_pos,misc_pos
+01-07-2019 05:09,fraud_Sawayn PLC,2.43,Lowell,OR,shopping_pos,shopping_pos
+01-07-2019 05:10,fraud_Erdman-Kertzmann,93.17,Baton Rouge,LA,gas_transport,gas_transport
+01-07-2019 05:11,fraud_Howe Ltd,44.58,Margaretville,NY,misc_pos,misc_pos
+01-07-2019 05:12,fraud_Luettgen PLC,54.3,Andrews,IN,gas_transport,gas_transport
+01-07-2019 05:13,"fraud_Rippin, Kub and Mann",1.81,Spirit Lake,ID,misc_net,misc_net
+01-07-2019 05:13,fraud_Ledner-Pfannerstill,62.8,Redford,MO,gas_transport,gas_transport
+01-07-2019 05:13,fraud_Donnelly PLC,5.15,Center Point,WV,misc_net,misc_net
+01-07-2019 05:13,fraud_Koss and Sons,84.51,Romulus,MI,gas_transport,gas_transport
+01-07-2019 05:14,"fraud_Ferry, Lynch and Kautzer",12.8,Cochranton,PA,misc_net,misc_net
+01-07-2019 05:14,fraud_Goodwin-Nitzsche,75.48,Sacramento,CA,grocery_pos,grocery_pos
+01-07-2019 05:14,fraud_Kling Inc,82.57,Mc Veytown,PA,gas_transport,gas_transport
+01-07-2019 05:14,fraud_Doyle Ltd,80.83,Boonton,NJ,grocery_pos,grocery_pos
+01-07-2019 05:15,fraud_Kuhic Inc,203.17,Goodrich,MI,grocery_pos,grocery_pos
+01-07-2019 05:15,fraud_Bogisich Inc,105.27,Clayton,OK,grocery_pos,grocery_pos
+01-07-2019 05:16,"fraud_Rowe, Batz and Goodwin",68.16,East Canaan,CT,grocery_pos,grocery_pos
+01-07-2019 05:16,fraud_Kihn-Fritsch,22.79,Pea Ridge,AR,food_dining,food_dining
+01-07-2019 05:16,fraud_Goodwin-Nitzsche,115.27,West Henrietta,NY,grocery_pos,grocery_pos
+01-07-2019 05:17,fraud_Collier Inc,43.15,Burlington,WA,grocery_net,grocery_net
+01-07-2019 05:17,"fraud_Altenwerth, Cartwright and Koss",4.34,Big Indian,NY,shopping_net,shopping_net
+01-07-2019 05:17,fraud_Hackett-Lueilwitz,62.16,Louisville,KY,grocery_pos,grocery_pos
+01-07-2019 05:18,"fraud_Raynor, Feest and Miller",72.68,Chester Heights,PA,gas_transport,gas_transport
+01-07-2019 05:18,fraud_Bednar Group,238.34,June Lake,CA,misc_net,misc_net
+01-07-2019 05:18,"fraud_Greenholt, Jacobi and Gleason",78.91,Warren,OH,gas_transport,gas_transport
+01-07-2019 05:19,fraud_Bradtke PLC,122.59,Topeka,KS,grocery_pos,grocery_pos
+01-07-2019 05:19,fraud_Towne LLC,3.61,Washington,DC,misc_pos,misc_pos
+01-07-2019 05:19,fraud_Padberg-Welch,40.2,Muskegon,MI,grocery_pos,grocery_pos
+01-07-2019 05:20,fraud_Huels-Hahn,60.1,Great Mills,MD,gas_transport,gas_transport
+01-07-2019 05:20,"fraud_Terry, Johns and Bins",492.44,High Rolls Mountain Park,NM,misc_pos,misc_pos
+01-07-2019 05:20,"fraud_Tillman, Fritsch and Schmitt",41.87,Winfield,WV,misc_net,misc_net
+01-07-2019 05:21,fraud_Huels-Nolan,67.05,Kissee Mills,MO,gas_transport,gas_transport
+01-07-2019 05:21,"fraud_Hayes, Marquardt and Dibbert",1.07,Spencer,SD,misc_net,misc_net
+01-07-2019 05:22,fraud_Ledner-Pfannerstill,39.61,Tallmansville,WV,gas_transport,gas_transport
+01-07-2019 05:23,fraud_Corwin-Gorczany,4.74,Cowlesville,NY,misc_net,misc_net
+01-07-2019 05:23,fraud_Halvorson Group,1.28,Greendale,WI,misc_pos,misc_pos
+01-07-2019 05:24,"fraud_Heathcote, Yost and Kertzmann",1.4,Cromona,KY,shopping_net,shopping_net
+01-07-2019 05:25,fraud_Cummings LLC,64.31,Pelham,NC,gas_transport,gas_transport
+01-07-2019 05:25,fraud_Schumm PLC,25.94,Notrees,TX,shopping_net,shopping_net
+01-07-2019 05:25,"fraud_Lehner, Reichert and Mills",6.28,Louisville,KY,misc_pos,misc_pos
+01-07-2019 05:26,fraud_Smith-Stokes,105.35,Fort Myers,FL,misc_pos,misc_pos
+01-07-2019 05:26,fraud_Cummings Group,42.47,Keller,TX,grocery_net,grocery_net
+01-07-2019 05:26,fraud_Kunze Inc,101.43,Mayersville,MS,grocery_pos,grocery_pos
+01-07-2019 05:27,"fraud_Lockman, West and Runte",111.89,Manley,NE,grocery_pos,grocery_pos
+01-07-2019 05:27,fraud_Kilback LLC,116.08,Cass,WV,grocery_pos,grocery_pos
+01-07-2019 05:28,"fraud_Johnston, Nikolaus and Maggio",27.62,Ranier,MN,grocery_net,grocery_net
+01-07-2019 05:29,"fraud_Fadel, Mertz and Rippin",149.56,Winslow,AR,entertainment,entertainment
+01-07-2019 05:29,fraud_Koepp-Parker,85.54,North Loup,NE,grocery_pos,grocery_pos
+01-07-2019 05:29,fraud_VonRueden Group,52.66,Lamberton,MN,grocery_net,grocery_net
+01-07-2019 05:29,fraud_Kerluke PLC,21.01,Wetmore,MI,misc_net,misc_net
+01-07-2019 05:29,fraud_Dickinson Ltd,7.22,Huslia,AK,misc_pos,misc_pos
+01-07-2019 05:29,fraud_Corwin-Collins,46.92,Tallmansville,WV,gas_transport,gas_transport
+01-07-2019 05:30,fraud_Hudson-Ratke,45.8,Mounds,OK,grocery_pos,grocery_pos
+01-07-2019 05:30,fraud_Haley Group,37.4,Red Cliff,CO,misc_pos,misc_pos
+01-07-2019 05:30,"fraud_Casper, Hand and Zulauf",117.41,Garrattsville,NY,grocery_pos,grocery_pos
+01-07-2019 05:30,fraud_Barrows PLC,95.27,West Eaton,NY,shopping_pos,shopping_pos
+01-07-2019 05:31,fraud_Padberg-Welch,98.38,Egan,LA,grocery_pos,grocery_pos
+01-07-2019 05:31,"fraud_Raynor, Feest and Miller",55.84,Spencer,SD,gas_transport,gas_transport
+01-07-2019 05:31,fraud_Luettgen PLC,59.87,Scarborough,ME,gas_transport,gas_transport
+01-07-2019 05:31,fraud_Jaskolski-Vandervort,46.0,Wetmore,MI,misc_net,misc_net
+01-07-2019 05:31,fraud_Conroy-Cruickshank,38.74,Stanchfield,MN,gas_transport,gas_transport
+01-07-2019 05:31,fraud_Auer-Mosciski,127.76,Grassflat,PA,grocery_pos,grocery_pos
+01-07-2019 05:32,fraud_Luettgen PLC,47.01,Hovland,MN,gas_transport,gas_transport
+01-07-2019 05:32,fraud_Goodwin-Nitzsche,104.84,Sacramento,CA,grocery_pos,grocery_pos
+01-07-2019 05:33,fraud_Wuckert-Walter,95.02,Naples,FL,grocery_net,grocery_net
+01-07-2019 05:33,"fraud_Lockman, West and Runte",231.2,Baroda,MI,grocery_pos,grocery_pos
+01-07-2019 05:33,"fraud_Streich, Dietrich and Barton",1.19,Cranks,KY,shopping_net,shopping_net
+01-07-2019 05:34,fraud_Kerluke-Abshire,12.09,Bynum,TX,shopping_net,shopping_net
+01-07-2019 05:34,"fraud_Lehner, Mosciski and King",1.41,Camden,MO,misc_net,misc_net
+01-07-2019 05:34,fraud_Wiegand-Lowe,32.43,Esbon,KS,grocery_net,grocery_net
+01-07-2019 05:35,fraud_Cummings LLC,57.14,Blooming Grove,TX,gas_transport,gas_transport
+01-07-2019 05:35,"fraud_Konopelski, Schneider and Hartmann",46.54,Gadsden,AL,food_dining,food_dining
+01-07-2019 05:36,fraud_Kilback LLC,83.55,Cuyahoga Falls,OH,grocery_pos,grocery_pos
+01-07-2019 05:37,fraud_Emmerich-Luettgen,42.51,Grover,NC,grocery_net,grocery_net
+01-07-2019 05:38,"fraud_Konopelski, Schneider and Hartmann",87.46,Dallas,TX,food_dining,food_dining
+01-07-2019 05:38,fraud_Bradtke PLC,101.03,Topeka,KS,grocery_pos,grocery_pos
+01-07-2019 05:39,fraud_Bruen-Yost,2.33,Clearwater,FL,misc_pos,misc_pos
+01-07-2019 05:39,fraud_Boyer PLC,129.01,Cassatt,SC,shopping_net,shopping_net
+01-07-2019 05:39,fraud_Kling-Grant,62.64,Allentown,PA,grocery_net,grocery_net
+01-07-2019 05:41,"fraud_Jenkins, Hauck and Friesen",58.52,Ronceverte,WV,gas_transport,gas_transport
+01-07-2019 05:42,fraud_Bailey-Morar,134.26,Kirk,CO,grocery_pos,grocery_pos
+01-07-2019 05:42,fraud_Barton Inc,54.78,Mounds,OK,grocery_pos,grocery_pos
+01-07-2019 05:42,fraud_Auer-West,1.11,East Andover,ME,shopping_net,shopping_net
+01-07-2019 05:43,"fraud_Larkin, Stracke and Greenfelder",34.74,Tallmansville,WV,entertainment,entertainment
+01-07-2019 05:43,fraud_McDermott-Weimann,97.25,Summerfield,TX,grocery_pos,grocery_pos
+01-07-2019 05:43,"fraud_Robel, Cummerata and Prosacco",62.1,Kirk,CO,gas_transport,gas_transport
+01-07-2019 05:44,"fraud_Schroeder, Hauck and Treutel",22.43,Delhi,LA,entertainment,entertainment
+01-07-2019 05:45,fraud_Koepp-Parker,201.7,Burlington,WA,grocery_pos,grocery_pos
+01-07-2019 05:46,fraud_Block Group,3.63,Mallie,KY,misc_pos,misc_pos
+01-07-2019 05:47,fraud_Heller-Langosh,75.85,Woodville,AL,gas_transport,gas_transport
+01-07-2019 05:47,fraud_Bins-Rice,73.0,Veedersburg,IN,gas_transport,gas_transport
+01-07-2019 05:49,fraud_Flatley-Durgan,4.69,Fulton,SD,misc_net,misc_net
+01-07-2019 05:49,fraud_Botsford Ltd,1.64,San Diego,CA,shopping_pos,shopping_pos
+01-07-2019 05:49,"fraud_Runolfsdottir, Mueller and Hand",9.31,Marienville,PA,entertainment,entertainment
+01-07-2019 05:50,fraud_Dicki Ltd,84.8,Lakeland,FL,grocery_net,grocery_net
+01-07-2019 05:50,fraud_Bauch-Blanda,114.69,Grantham,NH,entertainment,entertainment
+01-07-2019 05:51,fraud_Harris Inc,82.33,Hatch,UT,gas_transport,gas_transport
+01-07-2019 05:51,fraud_Vandervort-Funk,85.96,Heidelberg,MS,grocery_pos,grocery_pos
+01-07-2019 05:52,fraud_Hills-Olson,42.54,Superior,AZ,grocery_net,grocery_net
+01-07-2019 05:52,fraud_Berge LLC,53.87,Mc Veytown,PA,gas_transport,gas_transport
+01-07-2019 05:52,fraud_Marks Inc,49.65,Moulton,IA,gas_transport,gas_transport
+01-07-2019 05:53,"fraud_Bins, Balistreri and Beatty",147.36,Bridger,MT,shopping_pos,shopping_pos
+01-07-2019 05:53,fraud_Koepp-Witting,78.04,Warren,OH,grocery_pos,grocery_pos
+01-07-2019 05:53,fraud_Nader-Heller,11.9,Meredith,CO,misc_net,misc_net
+01-07-2019 05:54,fraud_Price Inc,786.64,Winger,MN,shopping_net,shopping_net
+01-07-2019 05:54,"fraud_Tillman, Fritsch and Schmitt",123.98,Superior,AZ,misc_net,misc_net
+01-07-2019 05:54,"fraud_Streich, Hansen and Veum",62.52,Putnam,IL,gas_transport,gas_transport
+01-07-2019 05:56,"fraud_Kovacek, Dibbert and Ondricka",92.22,Manchester,MD,grocery_pos,grocery_pos
+01-07-2019 05:56,"fraud_Turner, Ruecker and Parisian",9.98,Purmela,TX,misc_pos,misc_pos
+01-07-2019 05:58,fraud_McDermott-Weimann,89.99,Manderson,SD,grocery_pos,grocery_pos
+01-07-2019 05:58,"fraud_Tillman, Dickinson and Labadie",63.34,Marienville,PA,gas_transport,gas_transport
+01-07-2019 05:59,fraud_Deckow-O'Conner,158.8,Kirby,OH,grocery_pos,grocery_pos
+01-07-2019 06:00,fraud_Corwin-Collins,55.6,Eugene,OR,gas_transport,gas_transport
+01-07-2019 06:01,fraud_Pacocha-O'Reilly,59.72,Utica,MO,grocery_pos,grocery_pos
+01-07-2019 06:01,fraud_Heaney-Marquardt,74.5,Harborcreek,PA,entertainment,entertainment
+01-07-2019 06:02,fraud_Terry-Huel,4.05,Mount Hope,AL,shopping_net,shopping_net
+01-07-2019 06:02,fraud_Kris-Padberg,4.85,Rule,TX,shopping_pos,shopping_pos
+01-07-2019 06:02,fraud_Mraz-Herzog,66.74,Thompson,UT,gas_transport,gas_transport
+01-07-2019 06:02,fraud_Fisher Inc,5.5,Fordoche,LA,shopping_net,shopping_net
+01-07-2019 06:03,fraud_Gerlach Inc,78.78,Nazareth,TX,shopping_net,shopping_net
+01-07-2019 06:03,fraud_Kerluke Inc,161.77,Tomales,CA,misc_net,misc_net
+01-07-2019 06:03,fraud_Herman Inc,87.51,Goodrich,MI,misc_pos,misc_pos
+01-07-2019 06:03,"fraud_Reilly, Heaney and Cole",42.08,Thomas,WV,gas_transport,gas_transport
+01-07-2019 06:04,fraud_Lemke-Gutmann,144.19,Stillwater,OK,shopping_net,shopping_net
+01-07-2019 06:05,"fraud_Schumm, Bauch and Ondricka",109.58,Comfrey,MN,grocery_pos,grocery_pos
+01-07-2019 06:05,fraud_Volkman Ltd,86.67,Texarkana,AR,misc_net,misc_net
+01-07-2019 06:05,"fraud_Greenfelder, Bartoletti and Davis",23.19,Diamond,OH,misc_net,misc_net
+01-07-2019 06:06,fraud_Berge LLC,72.53,Kensington,MD,gas_transport,gas_transport
+01-07-2019 06:06,fraud_Bashirian Group,3.13,Burke,VA,shopping_net,shopping_net
+01-07-2019 06:06,"fraud_Rodriguez, Yost and Jenkins",54.39,Eugene,OR,misc_net,misc_net
+01-07-2019 06:06,"fraud_Heller, Gutmann and Zieme",113.29,Camden,MO,grocery_pos,grocery_pos
+01-07-2019 06:07,fraud_Cummings Group,52.99,North Wilkesboro,NC,grocery_net,grocery_net
+01-07-2019 06:07,"fraud_Huel, Hammes and Witting",71.5,Shedd,OR,grocery_pos,grocery_pos
+01-07-2019 06:07,fraud_Donnelly PLC,9.52,Downsville,NY,misc_net,misc_net
+01-07-2019 06:08,fraud_Brekke and Sons,32.24,Steuben,ME,gas_transport,gas_transport
+01-07-2019 06:08,fraud_Schmidt and Sons,5.54,Seneca,WI,shopping_net,shopping_net
+01-07-2019 06:08,"fraud_Robel, Cummerata and Prosacco",57.05,Esbon,KS,gas_transport,gas_transport
+01-07-2019 06:09,fraud_Schmitt Inc,46.56,Falls City,TX,gas_transport,gas_transport
+01-07-2019 06:10,fraud_Friesen-Stamm,32.9,Tekoa,WA,gas_transport,gas_transport
+01-07-2019 06:10,fraud_DuBuque LLC,199.2,Sun City,CA,grocery_pos,grocery_pos
+01-07-2019 06:10,fraud_Kling-Grant,106.69,Littleton,CO,grocery_net,grocery_net
+01-07-2019 06:10,fraud_Harris Inc,53.4,Liberty Mills,IN,gas_transport,gas_transport
+01-07-2019 06:11,"fraud_Swaniawski, Lowe and Robel",127.95,Summerfield,TX,shopping_pos,shopping_pos
+01-07-2019 06:12,fraud_Trantow PLC,46.84,Orient,WA,grocery_net,grocery_net
+01-07-2019 06:12,"fraud_Lockman, West and Runte",148.88,Port Ewen,NY,grocery_pos,grocery_pos
+01-07-2019 06:12,"fraud_Wiza, Schaden and Stark",8.35,West Henrietta,NY,misc_pos,misc_pos
+01-07-2019 06:13,"fraud_Schumm, Bauch and Ondricka",65.48,Ruckersville,VA,grocery_pos,grocery_pos
+01-07-2019 06:19,fraud_Spinka Inc,58.83,Pikesville,MD,grocery_net,grocery_net
+01-07-2019 06:19,fraud_Bogisich Inc,100.3,Fenelton,PA,grocery_pos,grocery_pos
+01-07-2019 06:19,"fraud_Reichert, Huels and Hoppe",304.96,Mifflin,PA,shopping_net,shopping_net
+01-07-2019 06:19,fraud_Mohr Inc,9.08,Gadsden,AL,shopping_pos,shopping_pos
+01-07-2019 06:21,fraud_Metz-Boehm,32.28,Manor,PA,shopping_pos,shopping_pos
+01-07-2019 06:21,"fraud_Roob, Conn and Tremblay",153.45,Etlan,VA,shopping_pos,shopping_pos
+01-07-2019 06:22,fraud_Koepp-Parker,35.8,Highland,IN,grocery_pos,grocery_pos
+01-07-2019 06:23,fraud_Terry-Huel,97.95,Helm,CA,shopping_net,shopping_net
+01-07-2019 06:24,fraud_Pfeffer and Sons,21.27,Syracuse,MO,shopping_pos,shopping_pos
+01-07-2019 06:24,"fraud_Schaefer, Maggio and Daugherty",56.95,Sontag,MS,gas_transport,gas_transport
+01-07-2019 06:24,fraud_Kemmer-Reinger,56.9,Washoe Valley,NV,grocery_net,grocery_net
+01-07-2019 06:24,fraud_Rempel Inc,4.95,Detroit,MI,shopping_net,shopping_net
+01-07-2019 06:25,"fraud_Zieme, Bode and Dooley",88.38,Bolton,NC,gas_transport,gas_transport
+01-07-2019 06:26,fraud_Gerlach Inc,2.33,Colton,WA,shopping_net,shopping_net
+01-07-2019 06:26,fraud_Murray-Smitham,49.52,Apison,TN,grocery_pos,grocery_pos
+01-07-2019 06:27,"fraud_Schumm, McLaughlin and Carter",134.42,Armonk,NY,food_dining,food_dining
+01-07-2019 06:28,fraud_Cummings Group,63.86,Meridian,TX,grocery_net,grocery_net
+01-07-2019 06:28,fraud_Mraz-Herzog,64.01,Laredo,TX,gas_transport,gas_transport
+01-07-2019 06:28,fraud_Barton Inc,91.1,Thompson,UT,grocery_pos,grocery_pos
+01-07-2019 06:28,fraud_Wisozk and Sons,49.45,Houston,TX,misc_pos,misc_pos
+01-07-2019 06:29,fraud_Cartwright-Harris,177.71,Creedmoor,NC,grocery_pos,grocery_pos
+01-07-2019 06:29,fraud_Kuhic Inc,58.54,Sacramento,CA,grocery_pos,grocery_pos
+01-07-2019 06:29,fraud_Kling-Grant,74.83,Hinckley,OH,grocery_net,grocery_net
+01-07-2019 06:30,fraud_Erdman-Kertzmann,48.15,Whaleyville,MD,gas_transport,gas_transport
+01-07-2019 06:30,"fraud_Jenkins, Hauck and Friesen",61.76,Hudson,NY,gas_transport,gas_transport
+01-07-2019 06:31,"fraud_Herman, Treutel and Dickens",2.04,Sheffield,MA,misc_net,misc_net
+01-07-2019 06:31,fraud_Price Inc,92.54,Mayersville,MS,shopping_net,shopping_net
+01-07-2019 06:31,"fraud_Okuneva, Schneider and Rau",6.13,Altona,NY,shopping_pos,shopping_pos
+01-07-2019 06:31,"fraud_Schumm, Bauch and Ondricka",90.57,Rocky Mount,MO,grocery_pos,grocery_pos
+01-07-2019 06:31,fraud_Koss and Sons,81.37,Dongola,IL,gas_transport,gas_transport
+01-07-2019 06:33,fraud_Hudson-Ratke,112.54,Cecilton,MD,grocery_pos,grocery_pos
+01-07-2019 06:34,fraud_Hudson-Ratke,98.92,Karnack,TX,grocery_pos,grocery_pos
+01-07-2019 06:34,fraud_Huels-Nolan,69.53,Utica,KS,gas_transport,gas_transport
+01-07-2019 06:35,"fraud_Wintheiser, Dietrich and Schimmel",5.36,Minneapolis,MN,misc_pos,misc_pos
+01-07-2019 06:35,fraud_Roob LLC,107.45,Albuquerque,NM,grocery_net,grocery_net
+01-07-2019 06:35,fraud_Bahringer-Larson,92.41,Waupaca,WI,grocery_net,grocery_net
+01-07-2019 06:36,fraud_Bins-Rice,63.71,Waynesfield,OH,gas_transport,gas_transport
+01-07-2019 06:37,fraud_Berge LLC,61.49,Clifton,SC,gas_transport,gas_transport
+01-07-2019 06:37,fraud_Deckow-O'Conner,85.68,Palermo,ND,grocery_pos,grocery_pos
+01-07-2019 06:38,"fraud_Bernier, Volkman and Hoeger",6.86,Burke,VA,misc_net,misc_net
+01-07-2019 06:38,"fraud_Cremin, Hamill and Reichel",40.33,Elkhart,IA,misc_pos,misc_pos
+01-07-2019 06:39,fraud_Harber Inc,58.39,Shenandoah Junction,WV,gas_transport,gas_transport
+01-07-2019 06:39,"fraud_Lockman, West and Runte",197.03,Creedmoor,NC,grocery_pos,grocery_pos
+01-07-2019 06:40,fraud_Schmitt Inc,54.54,Norman,AR,gas_transport,gas_transport
+01-07-2019 06:41,"fraud_Greenholt, Jacobi and Gleason",77.58,Fort Myers,FL,gas_transport,gas_transport
+01-07-2019 06:41,"fraud_Rutherford, Homenick and Bergstrom",51.9,Spencer,SD,grocery_net,grocery_net
+01-07-2019 06:42,fraud_Luettgen PLC,49.91,Holliday,TX,gas_transport,gas_transport
+01-07-2019 06:42,"fraud_Casper, Hand and Zulauf",25.26,Jackson,MS,grocery_pos,grocery_pos
+01-07-2019 06:42,"fraud_Osinski, Ledner and Leuschke",135.51,Iliff,CO,grocery_pos,grocery_pos
+01-07-2019 06:43,"fraud_Moore, Dibbert and Koepp",6.29,Louisville,KY,misc_net,misc_net
+01-07-2019 06:43,"fraud_Zieme, Bode and Dooley",59.8,Cape Coral,FL,gas_transport,gas_transport
+01-07-2019 06:44,fraud_Wuckert-Walter,54.79,Bauxite,AR,grocery_net,grocery_net
+01-07-2019 06:44,fraud_Keeling-Crist,34.07,Graniteville,VT,misc_pos,misc_pos
+01-07-2019 06:45,fraud_Kuphal-Predovic,131.96,Port Ewen,NY,misc_net,misc_net
+01-07-2019 06:45,fraud_Jast-McDermott,6.13,Surrency,GA,shopping_pos,shopping_pos
+01-07-2019 06:45,"fraud_Reilly, Heaney and Cole",65.16,Georgetown,MN,gas_transport,gas_transport
+01-07-2019 06:45,fraud_McDermott-Weimann,97.17,Ford,VA,grocery_pos,grocery_pos
+01-07-2019 06:45,fraud_Botsford Ltd,3.99,Greenview,CA,shopping_pos,shopping_pos
+01-07-2019 06:45,fraud_Huels-Hahn,51.11,Quanah,TX,gas_transport,gas_transport
+01-07-2019 06:46,fraud_Torp-Labadie,78.68,Titusville,FL,gas_transport,gas_transport
+01-07-2019 06:46,fraud_Kuvalis Ltd,81.31,Sontag,MS,gas_transport,gas_transport
+01-07-2019 06:47,fraud_Beier-Hyatt,5.77,Washington,DC,shopping_pos,shopping_pos
+01-07-2019 06:47,"fraud_Weimann, Kuhic and Beahan",8.72,Canton,OH,shopping_pos,shopping_pos
+01-07-2019 06:48,fraud_Skiles-Ankunding,39.75,Hawthorne,CA,grocery_net,grocery_net
+01-07-2019 06:49,fraud_Conroy-Cruickshank,78.66,Birmingham,AL,gas_transport,gas_transport
+01-07-2019 06:49,fraud_Ruecker Group,50.01,Ruth,NV,misc_net,misc_net
+01-07-2019 06:50,fraud_McDermott-Weimann,65.21,Topeka,KS,grocery_pos,grocery_pos
+01-07-2019 06:51,fraud_Jewess LLC,3.03,Armonk,NY,shopping_pos,shopping_pos
+01-07-2019 06:51,fraud_Zboncak Ltd,43.83,Meadville,MS,food_dining,food_dining
+01-07-2019 06:51,"fraud_Raynor, Reinger and Hagenes",59.74,Battle Creek,IA,gas_transport,gas_transport
+01-07-2019 06:52,"fraud_Lehner, Mosciski and King",169.01,Burbank,OK,misc_net,misc_net
+01-07-2019 06:52,fraud_Wisozk and Sons,117.63,Sebring,FL,misc_pos,misc_pos
+01-07-2019 06:53,fraud_Friesen-D'Amore,41.28,Cottekill,NY,gas_transport,gas_transport
+01-07-2019 06:54,"fraud_Zboncak, Rowe and Murazik",7.69,Enola,AR,shopping_net,shopping_net
+01-07-2019 06:54,fraud_Brekke and Sons,65.38,Baroda,MI,gas_transport,gas_transport
+01-07-2019 06:54,fraud_Kunze Inc,94.44,Saxon,WI,grocery_pos,grocery_pos
+01-07-2019 06:54,fraud_Eichmann-Russel,92.8,Notrees,TX,misc_pos,misc_pos
+01-07-2019 06:55,fraud_Luettgen PLC,71.22,Cowlesville,NY,gas_transport,gas_transport
+01-07-2019 06:56,fraud_Bartoletti-Wunsch,43.32,Uledi,PA,gas_transport,gas_transport
+01-07-2019 06:56,fraud_Luettgen PLC,64.07,Cord,AR,gas_transport,gas_transport
+01-07-2019 06:57,fraud_Kutch-Hegmann,53.2,Shields,ND,grocery_net,grocery_net
+01-07-2019 06:58,"fraud_Mosciski, Gislason and Mertz",61.13,Churubusco,IN,grocery_pos,grocery_pos
+01-07-2019 06:59,fraud_Kutch and Sons,198.38,Newhall,CA,grocery_pos,grocery_pos
+01-07-2019 06:59,fraud_Torp-Labadie,49.28,Coleman,TX,gas_transport,gas_transport
+01-07-2019 07:01,fraud_Heidenreich PLC,182.71,Grassflat,PA,grocery_pos,grocery_pos
+01-07-2019 07:01,fraud_Boyer PLC,91.24,Helm,CA,shopping_net,shopping_net
+01-07-2019 07:01,"fraud_Huel, Hammes and Witting",84.96,Thornville,OH,grocery_pos,grocery_pos
+01-07-2019 07:02,"fraud_Schultz, Simonis and Little",118.3,Cross Plains,TX,grocery_pos,grocery_pos
+01-07-2019 07:02,fraud_Kuhic LLC,94.4,Saxon,WI,shopping_net,shopping_net
+01-07-2019 07:02,fraud_Lesch Ltd,9.56,Port Ewen,NY,shopping_pos,shopping_pos
+01-07-2019 07:03,fraud_Rodriguez Group,74.56,Acworth,NH,gas_transport,gas_transport
+01-07-2019 07:03,fraud_Erdman-Kertzmann,67.08,Stanchfield,MN,gas_transport,gas_transport
+01-07-2019 07:03,fraud_Turner and Sons,9.44,Manchester,MD,shopping_pos,shopping_pos
+01-07-2019 07:04,fraud_Torp-Labadie,70.34,Sebring,FL,gas_transport,gas_transport
+01-07-2019 07:05,fraud_Lebsack and Sons,10.75,Luzerne,MI,misc_net,misc_net
+01-07-2019 07:06,fraud_Schmitt Inc,55.62,New Waverly,TX,gas_transport,gas_transport
+01-07-2019 07:07,fraud_Pouros-Haag,34.71,Camden,MO,shopping_pos,shopping_pos
+01-07-2019 07:09,fraud_Bartoletti-Wunsch,38.66,Plymouth,CT,gas_transport,gas_transport
+01-07-2019 07:09,fraud_Halvorson Group,2.84,West Columbia,SC,misc_pos,misc_pos
+01-07-2019 07:10,fraud_Strosin-Cruickshank,120.05,Dalton,WI,grocery_pos,grocery_pos
+01-07-2019 07:10,fraud_Kutch and Sons,98.94,Pewee Valley,KY,grocery_pos,grocery_pos
+01-07-2019 07:10,fraud_Friesen-Stamm,54.99,Thomas,WV,gas_transport,gas_transport
+01-07-2019 07:10,fraud_Berge LLC,56.25,Westerville,NE,gas_transport,gas_transport
+01-07-2019 07:11,fraud_Towne LLC,39.94,Washington Court House,OH,misc_pos,misc_pos
+01-07-2019 07:11,fraud_Funk Group,53.38,Houston,TX,grocery_net,grocery_net
+01-07-2019 07:12,fraud_Fisher-Schowalter,3.54,Auburn,ME,shopping_net,shopping_net
+01-07-2019 07:13,fraud_Koelpin and Sons,102.01,Saint Francis,KY,misc_net,misc_net
+01-07-2019 07:13,fraud_Erdman-Kertzmann,59.62,North Washington,PA,gas_transport,gas_transport
+01-07-2019 07:14,fraud_Koss and Sons,78.03,River,KY,gas_transport,gas_transport
+01-07-2019 07:14,fraud_Marks Inc,74.01,North Wilkesboro,NC,gas_transport,gas_transport
+01-07-2019 07:15,fraud_Kiehn-Emmerich,133.67,Timberville,VA,grocery_pos,grocery_pos
+01-07-2019 07:15,fraud_Cummings LLC,56.57,Cross Plains,TX,gas_transport,gas_transport
+01-07-2019 07:15,fraud_Friesen-Stamm,70.58,Lohrville,IA,gas_transport,gas_transport
+01-07-2019 07:16,fraud_Berge LLC,76.31,Surrency,GA,gas_transport,gas_transport
+01-07-2019 07:16,"fraud_Reilly, Heaney and Cole",67.96,Slayden,TN,gas_transport,gas_transport
+01-07-2019 07:17,fraud_Spinka-Welch,31.61,Westport,KY,grocery_net,grocery_net
+01-07-2019 07:17,"fraud_Langosh, Wintheiser and Hyatt",59.95,Cadiz,KY,food_dining,food_dining
+01-07-2019 07:18,fraud_Pfeffer LLC,57.27,Waynesfield,OH,grocery_net,grocery_net
+01-07-2019 07:20,fraud_Torphy-Goyette,360.18,Bay Minette,AL,shopping_pos,shopping_pos
+01-07-2019 07:21,fraud_Kuhn LLC,4.22,Sturgis,MS,misc_net,shopping_pos
+01-07-2019 07:22,fraud_Stracke-Lemke,145.79,Ollie,IA,grocery_pos,grocery_pos
+01-07-2019 07:22,fraud_Cummerata-Jones,79.44,Sherman,TX,gas_transport,gas_transport
+01-07-2019 07:22,fraud_Bins-Rice,79.06,New Ellenton,SC,gas_transport,gas_transport
+01-07-2019 07:22,fraud_Torp-Labadie,68.14,Delhi,LA,gas_transport,gas_transport
+01-07-2019 07:23,"fraud_Kohler, Lindgren and Koelpin",9.26,Bowdoin,ME,grocery_net,grocery_net
+01-07-2019 07:24,fraud_Johns Inc,69.11,Karnack,TX,entertainment,entertainment
+01-07-2019 07:24,fraud_Volkman-Predovic,2.89,Hatch,UT,shopping_net,shopping_net
+01-07-2019 07:25,fraud_Smitham-Boehm,17.09,Moorhead,MS,grocery_net,grocery_net
+01-07-2019 07:25,"fraud_Bernhard, Grant and Langworth",2.76,Weeping Water,NE,shopping_pos,shopping_pos
+01-07-2019 07:25,"fraud_Greenholt, Jacobi and Gleason",71.32,Haw River,NC,gas_transport,gas_transport
+01-07-2019 07:26,fraud_Parisian and Sons,75.88,Cokeburg,PA,gas_transport,gas_transport
+01-07-2019 07:27,fraud_Williamson LLC,62.45,Odessa,MO,misc_pos,misc_pos
+01-07-2019 07:27,fraud_Boyer PLC,7.3,Randolph,OH,shopping_net,misc_pos
+01-07-2019 07:27,fraud_Pacocha-O'Reilly,126.84,North Loup,NE,grocery_pos,grocery_pos
+01-07-2019 07:28,fraud_Kris-Weimann,4.07,San Antonio,TX,misc_net,misc_net
+01-07-2019 07:29,fraud_Kihn Inc,29.19,Grantham,NH,shopping_pos,shopping_pos
+01-07-2019 07:29,fraud_Koepp-Parker,98.2,Mount Morris,NY,grocery_pos,grocery_pos
+01-07-2019 07:30,fraud_Gutmann Ltd,60.71,Helm,CA,grocery_net,grocery_net
+01-07-2019 07:30,fraud_Doyle Ltd,74.84,Ozawkie,KS,grocery_pos,grocery_pos
+01-07-2019 07:30,fraud_Cummings Group,63.79,Barneveld,NY,grocery_net,grocery_net
+01-07-2019 07:30,"fraud_Rutherford, Homenick and Bergstrom",31.78,Wilmington,NC,grocery_net,grocery_net
+01-07-2019 07:30,fraud_Smith-Stokes,37.78,Shippingport,PA,misc_pos,misc_pos
+01-07-2019 07:30,fraud_Cartwright-Harris,152.19,Emmons,MN,grocery_pos,grocery_pos
+01-07-2019 07:31,fraud_Herzog Ltd,57.28,De Witt,AR,misc_pos,misc_pos
+01-07-2019 07:32,fraud_Hamill-Daugherty,23.81,Jefferson,NY,misc_net,misc_net
+01-07-2019 07:32,fraud_Cartwright-Harris,82.04,Blooming Grove,TX,grocery_pos,grocery_pos
+01-07-2019 07:33,fraud_Kutch and Sons,104.94,Waupaca,WI,grocery_pos,grocery_pos
+01-07-2019 07:33,"fraud_Schaefer, McGlynn and Bosco",98.71,Bethel,OH,gas_transport,gas_transport
+01-07-2019 07:34,fraud_Auer-Mosciski,132.25,Freedom,WY,grocery_pos,grocery_pos
+01-07-2019 07:35,fraud_Stracke-Lemke,91.73,Harper,TX,grocery_pos,grocery_pos
+01-07-2019 07:35,fraud_Padberg-Rogahn,52.62,Altona,NY,entertainment,entertainment
+01-07-2019 07:36,fraud_Auer-West,281.05,Pea Ridge,AR,shopping_net,shopping_net
+01-07-2019 07:36,fraud_Mante Group,110.13,Smithfield,IL,misc_net,misc_net
+01-07-2019 07:37,"fraud_Herman, Treutel and Dickens",8.54,Baroda,MI,misc_net,misc_net
+01-07-2019 07:37,"fraud_Schoen, Kuphal and Nitzsche",114.25,Dresden,KS,grocery_pos,grocery_pos
+01-07-2019 07:37,"fraud_Cremin, Hamill and Reichel",7.47,Manchester,MD,misc_pos,misc_pos
+01-07-2019 07:37,"fraud_Mosciski, Gislason and Mertz",121.63,Central,IN,grocery_pos,grocery_pos
+01-07-2019 07:38,fraud_Cummerata-Jones,70.43,Bessemer,AL,gas_transport,gas_transport
+01-07-2019 07:38,"fraud_Raynor, Reinger and Hagenes",58.92,Brantley,AL,gas_transport,gas_transport
+01-07-2019 07:39,fraud_Kutch and Sons,65.05,Heart Butte,MT,grocery_pos,grocery_pos
+01-07-2019 07:39,fraud_Christiansen-Gusikowski,4.35,Andrews,NC,misc_pos,misc_pos
+01-07-2019 07:39,fraud_Hermann-Gaylord,30.33,Meadville,MO,misc_pos,misc_pos
+01-07-2019 07:40,fraud_Torp-Labadie,58.58,Oriskany Falls,NY,gas_transport,gas_transport
+01-07-2019 07:41,fraud_Stracke-Lemke,201.76,Littleton,CO,grocery_pos,grocery_pos
+01-07-2019 07:42,fraud_McDermott-Rice,9.84,Tupper Lake,NY,misc_pos,misc_pos
+01-07-2019 07:42,fraud_Block Group,8.09,Parsonsfield,ME,misc_pos,misc_pos
+01-07-2019 07:43,fraud_Cummerata-Jones,52.23,Ashford,WA,gas_transport,gas_transport
+01-07-2019 07:44,fraud_Torp-Lemke,2.65,Knoxville,TN,misc_pos,misc_pos
+01-07-2019 07:44,"fraud_Gottlieb, Considine and Schultz",55.53,Oakdale,NY,shopping_net,shopping_net
+01-07-2019 07:45,fraud_Cartwright-Harris,231.25,Hinckley,OH,grocery_pos,grocery_pos
+01-07-2019 07:45,fraud_Harber Inc,36.25,San Antonio,TX,gas_transport,gas_transport
+01-07-2019 07:46,fraud_Harris Inc,32.12,Barneveld,NY,gas_transport,gas_transport
+01-07-2019 07:46,fraud_Kemmer-Buckridge,95.78,Cadiz,KY,misc_pos,misc_pos
+01-07-2019 07:46,fraud_Kling Inc,60.27,Bridger,MT,gas_transport,gas_transport
+01-07-2019 07:47,fraud_Stracke-Lemke,112.0,Dunlevy,PA,grocery_pos,grocery_pos
+01-07-2019 07:47,fraud_Kunze Inc,92.27,Athena,OR,grocery_pos,grocery_pos
+01-07-2019 07:48,"fraud_Altenwerth, Cartwright and Koss",4.21,Winger,MN,shopping_net,shopping_net
+01-07-2019 07:48,fraud_Dicki Ltd,47.98,Tupper Lake,NY,grocery_net,grocery_net
+01-07-2019 07:49,"fraud_Stroman, Hudson and Erdman",72.22,Greendale,WI,gas_transport,gas_transport
+01-07-2019 07:49,fraud_Cummerata-Jones,75.76,Belmond,IA,gas_transport,gas_transport
+01-07-2019 07:49,"fraud_Stanton, Jakubowski and Baumbach",1.07,West Chazy,NY,shopping_net,shopping_net
+01-07-2019 07:50,fraud_Grimes LLC,8.11,Dresden,KS,entertainment,entertainment
+01-07-2019 07:51,fraud_Torphy-Goyette,9.4,West Bethel,ME,shopping_pos,shopping_pos
+01-07-2019 07:51,"fraud_Gottlieb, Considine and Schultz",5.29,Prairie Creek,IN,shopping_net,shopping_net
+01-07-2019 07:51,fraud_Barton Inc,150.22,Belfast,NY,grocery_pos,grocery_pos
+01-07-2019 07:51,fraud_Deckow-O'Conner,80.94,Timberville,VA,grocery_pos,grocery_pos
+01-07-2019 07:51,"fraud_Zieme, Bode and Dooley",63.89,Great Mills,MD,gas_transport,gas_transport
+01-07-2019 07:52,fraud_Douglas-White,5.15,Metairie,LA,entertainment,entertainment
+01-07-2019 07:52,"fraud_Kutch, Hermiston and Farrell",50.81,Milford,OH,gas_transport,gas_transport
+01-07-2019 07:54,fraud_McDermott-Rice,36.6,Tower Hill,IL,misc_pos,misc_pos
+01-07-2019 07:54,fraud_Cole PLC,90.38,Delhi,LA,grocery_pos,grocery_pos
+01-07-2019 07:55,fraud_Rutherford-Mertz,115.31,Parks,AZ,grocery_pos,grocery_pos
+01-07-2019 07:55,fraud_Pagac LLC,1.15,Honokaa,HI,shopping_pos,shopping_pos
+01-07-2019 07:55,"fraud_Schultz, Simonis and Little",111.69,Warren,MI,grocery_pos,grocery_pos
+01-07-2019 07:56,fraud_Kunze Inc,125.8,Ash Flat,AR,grocery_pos,grocery_pos
+01-07-2019 07:57,fraud_Wolf Inc,83.7,Lomax,IL,grocery_pos,grocery_pos
+01-07-2019 07:58,fraud_Torp-Lemke,4.19,North Judson,IN,misc_pos,misc_pos
+01-07-2019 07:58,fraud_Heathcote LLC,93.23,Leetsdale,PA,shopping_net,shopping_net
+01-07-2019 07:58,fraud_Welch Inc,14.12,Saint Paul,MN,misc_net,misc_net
+01-07-2019 07:59,fraud_Murray Ltd,27.03,Kilgore,TX,grocery_net,grocery_net
+01-07-2019 07:59,fraud_Bauch-Blanda,125.8,Harborcreek,PA,entertainment,entertainment
+01-07-2019 07:59,fraud_Metz-Boehm,9.74,Brinson,GA,shopping_pos,shopping_pos
+01-07-2019 07:59,fraud_Doyle Ltd,68.81,Wichita,KS,grocery_pos,grocery_pos
+01-07-2019 07:59,fraud_Dooley-Thompson,1015.12,Notrees,TX,misc_net,misc_net
+01-07-2019 07:59,fraud_Stracke-Lemke,111.18,Lohrville,IA,grocery_pos,grocery_pos
+01-07-2019 08:00,fraud_Bradtke PLC,111.33,Leetsdale,PA,grocery_pos,grocery_pos
+01-07-2019 08:00,fraud_Bins-Rice,72.98,Corriganville,MD,gas_transport,gas_transport
+01-07-2019 08:00,fraud_Harris Inc,49.24,Redford,MO,gas_transport,gas_transport
+01-07-2019 08:01,"fraud_Lakin, Ferry and Beatty",138.96,Armonk,NY,food_dining,food_dining
+01-07-2019 08:02,fraud_Emard Inc,44.75,Bradley,SC,gas_transport,gas_transport

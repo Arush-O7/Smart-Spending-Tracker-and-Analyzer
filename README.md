@@ -20,7 +20,7 @@ The project follows a modular structure to separate research, models, and applic
 ## ✨ Key Features
 
 ### 1. AI-Driven Transaction Categorization
-Unlike traditional keyword-based filters, this project uses a **Random Forest** pipeline. It analyzes the relationship between merchant descriptions and transaction amounts to predict categories (e.g., Food, Travel, Shopping) with high confidence.
+Unlike traditional keyword-based filters, this project uses a **TF-IDF + Logistic Regression** pipeline. It analyzes the relationship between merchant descriptions and transaction amounts to predict categories (e.g., Food, Travel, Shopping) with high confidence.
 
 ### 2. Risk & Anomaly Detection
 The system integrates an **Isolation Forest** model, an unsupervised learning algorithm. This engine identifies "outliers"—spending events that deviate significantly from a user's established historical patterns.

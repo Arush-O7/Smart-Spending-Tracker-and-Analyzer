@@ -11,18 +11,36 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 *$py.class
-*.pyc
+build/
+dist/
+*.egg-info/
+.eggs/
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# Virtual Environment
+# Virtual environments
 venv/
+.venv/
 ENV/
 env/
 
-# Environment Variables
+# Testing and tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Environment variables and secrets
 .env
+.env.*
+!.env.example
 
 # Logs
 *.log
+
+# Large local datasets (download instructions in data/README.md)
+data/credit_card_transactions.csv

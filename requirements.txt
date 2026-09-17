@@ -1,6 +1,9 @@
-joblib
-numpy
-pandas
-plotly
+# Runtime dependencies. scikit-learn is pinned exactly: the serialized model
+# artifacts in models/ were produced with this version and will not deserialize
+# reliably against another one.
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+plotly==6.3.1
 scikit-learn==1.6.1
-streamlit
+streamlit==1.37.1

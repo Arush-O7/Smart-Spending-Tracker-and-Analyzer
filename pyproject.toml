@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spending-analyzer"
+version = "1.0.0"
+description = "Transaction categorization, spending insights and unsupervised risk scoring."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Arush Mishra" }]
+dependencies = [
+    "joblib>=1.4,<2",
+    "numpy>=1.26,<2",
+    "pandas>=2.2,<3",
+    "plotly>=5.22,<7",
+    "scikit-learn==1.6.1",
+    "streamlit>=1.37,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2", "pytest-cov>=5.0", "ruff>=0.5"]
+
+[project.scripts]
+spending-analyzer = "spending_analyzer.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/Arush-O7/Smart-Spending-Tracker-and-Analyzer"
+Issues = "https://github.com/Arush-O7/Smart-Spending-Tracker-and-Analyzer/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q --strict-markers"
+filterwarnings = ["error::FutureWarning", "error::DeprecationWarning"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+src = ["src", "tests"]
+extend-exclude = ["notebooks", "venv", ".venv"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+# app.py has to extend sys.path before it can import the package.
+"app.py" = ["E402"]
+# __init__.py only re-exports.
+"src/spending_analyzer/__init__.py" = ["F401"]

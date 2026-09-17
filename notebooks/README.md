@@ -90,4 +90,13 @@ It handles selection, renaming, cleaning, and validation of core fields from the
 
 - Use cleaned dataframe to **train or evaluate the scikit-learn pipeline** used by the Streamlit app.
 - Save trained pipeline artifacts to **`models/`** for use in the app and CLI.
-- (Optional) Add reproducibility enhancements (e.g., fixed binning strategies for amounts).
+- Export the `amount_bin` cut points too, otherwise inference can't reproduce the binning the
+  model was trained on:
+
+  ```bash
+  spending-analyzer fit-bins data/credit_card_transactions.csv --bins 5
+  ```
+
+  That writes `models/amount_bins.json`, which the app and CLI read on startup. Verify with
+  `spending-analyzer show-config`, then re-run `pytest` — `tests/test_pipeline.py` checks that
+  the sample accuracy hasn't regressed.

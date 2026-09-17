@@ -80,7 +80,7 @@ spending-analyzer fit-bins data/credit_card_transactions.csv --bins 5
 ```
 
 ### 2. Risk & Anomaly Detection
-The system integrates an **Isolation Forest**, an unsupervised learning algorithm. This engine identifies "outliers" — spending events that deviate significantly from a user's established historical patterns.
+The system integrates an **Isolation Forest**, an unsupervised learning algorithm. This engine identifies "outliers"—spending events that deviate significantly from a user's established historical patterns.
 
 Every flagged transaction comes with a reason (`rare_merchant`, `high_amount`, `high_frequency_day`, `unusual_hour`), and the risk tab layers five tunable rules on top of the model score: `high_z`, `rapid_swipes`, `repeat_small`, `geo_jump` and `velocity_spike`. Each run can be exported with a JSON manifest of the exact thresholds used, so an alert list can be reproduced later.
 
@@ -111,7 +111,7 @@ The suite covers schema detection, feature engineering and every analysis functi
 
 ## 🛡️ Privacy
 
-Uploaded files are processed by the server running the app, kept in memory for the session and dropped when it ends. Nothing is written to disk or sent anywhere else, and the models are pre-trained so they never learn from your data. Do keep in mind that if you deploy this somewhere hosted, that host is still a third party — for real statements, run it locally.
+Uploaded files are processed by the server running the app, kept in memory for the session and dropped when it ends. Nothing is written to disk or sent anywhere else, and the models are pre-trained so they never learn from your data. Do keep in mind that if you deploy this somewhere hosted, that host is still a third party, so for real statements run it locally.
 
 ---
 

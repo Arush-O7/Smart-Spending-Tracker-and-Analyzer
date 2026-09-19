@@ -45,22 +45,27 @@ st.set_page_config(page_title="Smart Spending Tracker and Analyzer", layout="wid
 
 
 # ---------------- Cached work ----------------
-@st.cache_resource(show_spinner="Loading categorization model...")
+# Cache spinners only render on a cache miss, so they add an element on one run
+# and not the next. That shifts everything after them, and Streamlit then treats
+# the tabs and tables as new elements: the open tab jumps back to the first one
+# and the dataframes crash while remounting. Keep them off and use st.spinner at
+# the call site, which renders on every run.
+@st.cache_resource(show_spinner=False)
 def get_pipe():
     return load_categorization_pipeline()
 
 
-@st.cache_resource(show_spinner="Loading risk pipeline...")
+@st.cache_resource(show_spinner=False)
 def get_risk_bundle():
     return load_risk_bundle()
 
 
-@st.cache_data(show_spinner="Reading file...")
+@st.cache_data(show_spinner=False)
 def read_upload(payload):
     return pd.read_csv(io.BytesIO(payload))
 
 
-@st.cache_data(show_spinner="Categorizing transactions...")
+@st.cache_data(show_spinner=False)
 def categorize(raw):
     feats, dropped, _ = build_features(align_to_canonical(raw))
     if feats.empty:
@@ -70,7 +75,7 @@ def categorize(raw):
     return out, dropped
 
 
-@st.cache_data(show_spinner="Scoring risk...")
+@st.cache_data(show_spinner=False)
 def score_transactions(raw):
     feats = build_risk_features(raw)
     feats["risk_score"] = score_risk(feats, get_risk_bundle())
@@ -134,7 +139,8 @@ with tab_insights:
 
         out, dropped = None, 0
         try:
-            out, dropped = categorize(df_main)
+            with st.spinner("Categorizing transactions..."):
+                out, dropped = categorize(df_main)
         except (SchemaError, ModelLoadError) as e:
             st.error(f"❌ {e}")
         except Exception as e:
@@ -313,7 +319,8 @@ with tab_risk:
     else:
         scored = None
         try:
-            scored = apply_rules(score_transactions(df_main), thresholds)
+            with st.spinner("Scoring risk..."):
+                scored = apply_rules(score_transactions(df_main), thresholds)
         except (ValueError, ModelLoadError) as e:
             st.error(f"❌ {e}")
         except Exception as e:
